@@ -1,5 +1,5 @@
 function generateVirtualTry() {
-  const iframeLink = "http://localhost:8000/";
+  const iframeLink = "https://virtualtrydemo.website/";
   const virtualTryIframe = document.createElement("iframe");
   virtualTryIframe.setAttribute("src", iframeLink);
   virtualTryIframe.classList.add("virtual-try");
@@ -10,6 +10,6 @@ function generateVirtualTry() {
   const  styleLink = document.createElement("link");
   styleLink.rel = "stylesheet";
   styleLink.type = "text/css";
-  styleLink.href = "style.css";
+  styleLink.href = "https://cdn.jsdelivr.net/gh/iuzn/api@main/virtual-try/virtualtry.css";
   head.appendChild(styleLink);
 }
