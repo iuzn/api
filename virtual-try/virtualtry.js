@@ -13,3 +13,4 @@ function generateVirtualTry() {
   styleLink.href = "https://cdn.jsdelivr.net/gh/iuzn/api@main/virtual-try/virtualtry.css";
   head.appendChild(styleLink);
 }
+generateVirtualTry()
