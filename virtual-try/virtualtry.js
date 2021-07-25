@@ -6,11 +6,12 @@ function generateVirtualTry() {
   virtualTryIframe.style.width = "640px";
   virtualTryIframe.style.height = "480px";
   document.getElementById("virtual-try").appendChild(virtualTryIframe);
-  const  head = document.getElementsByTagName("HEAD")[0];
-  const  styleLink = document.createElement("link");
-  styleLink.rel = "stylesheet";
-  styleLink.type = "text/css";
-  styleLink.href = "https://cdn.jsdelivr.net/gh/iuzn/api@main/virtual-try/virtualtry.css";
-  head.appendChild(styleLink);
+  // const head = document.getElementsByTagName("HEAD")[0];
+  // const styleLink = document.createElement("link");
+  // styleLink.rel = "stylesheet";
+  // styleLink.type = "text/css";
+  // styleLink.href ="https://cdn.jsdelivr.net/gh/iuzn/api@main/virtual-try/virtualtry.css";
+  // styleLink.media = "all";
+  // head.appendChild(styleLink);
 }
-generateVirtualTry()
+generateVirtualTry();
