@@ -1,122 +1,122 @@
 [
   {
-    "fields": { "order": "1", "juz": "1. Cüz" },
+    "order": "1", "juz": "1. Cüz" ,
     "id": "f9d1e2e7-6147-456d-b768-b1823f853b2d"
   },
   {
-    "fields": { "order": "2", "juz": "2. Cüz" },
+    "order": "2", "juz": "2. Cüz" ,
     "id": "9fde404c-fee6-4978-af95-2e8487a7dabf"
   },
   {
-    "fields": { "order": "3", "juz": "3. Cüz" },
+    "order": "3", "juz": "3. Cüz" ,
     "id": "8a01f698-06eb-4543-8e06-75e0991fa145"
   },
   {
-    "fields": { "order": "4", "juz": "4. Cüz" },
+    "order": "4", "juz": "4. Cüz" ,
     "id": "0797cfbf-ff6c-43f2-9b3b-195ab03efea2"
   },
   {
-    "fields": { "order": "5", "juz": "5. Cüz" },
+    "order": "5", "juz": "5. Cüz" ,
     "id": "0d738871-9a8a-4407-baa2-aee0d6694754"
   },
   {
-    "fields": { "order": "6", "juz": "6. Cüz" },
+    "order": "6", "juz": "6. Cüz" ,
     "id": "536cbde6-6728-434a-87d1-060fbc8d5eca"
   },
   {
-    "fields": { "order": "7", "juz": "7. Cüz" },
+    "order": "7", "juz": "7. Cüz" ,
     "id": "03f3375d-4db7-4615-ba73-095d5149d607"
   },
   {
-    "fields": { "order": "8", "juz": "8. Cüz" },
+    "order": "8", "juz": "8. Cüz" ,
     "id": "7abedc75-0391-45f3-ae94-25bb9679ee0d"
   },
   {
-    "fields": { "order": "9", "juz": "9. Cüz" },
+    "order": "9", "juz": "9. Cüz" ,
     "id": "dcd20d9f-94aa-4466-b408-76f8daccafe1"
   },
   {
-    "fields": { "order": "10", "juz": "10. Cüz" },
+    "order": "10", "juz": "10. Cüz" ,
     "id": "2d0bb804-81c1-4281-a06b-c4e27e871e52"
   },
   {
-    "fields": { "order": "11", "juz": "11. Cüz" },
+    "order": "11", "juz": "11. Cüz" ,
     "id": "da329593-67c8-439b-a539-2f00614bbbb5"
   },
   {
-    "fields": { "order": "12", "juz": "12. Cüz" },
+    "order": "12", "juz": "12. Cüz" ,
     "id": "df2de0e3-2dcc-48f0-b694-a6bc84664f4b"
   },
   {
-    "fields": { "order": "13", "juz": "13. Cüz" },
+    "order": "13", "juz": "13. Cüz" ,
     "id": "ba589765-6097-4e70-88d9-6d9f08ed269d"
   },
   {
-    "fields": { "order": "14", "juz": "14. Cüz" },
+    "order": "14", "juz": "14. Cüz" ,
     "id": "44855340-b066-4ce8-b902-d1f491f26763"
   },
   {
-    "fields": { "order": "15", "juz": "15. Cüz" },
+    "order": "15", "juz": "15. Cüz" ,
     "id": "e1f9af43-2796-4e57-a889-f3d83739e50d"
   },
   {
-    "fields": { "order": "16", "juz": "16. Cüz" },
+    "order": "16", "juz": "16. Cüz" ,
     "id": "edcb4e71-72d3-407c-af35-56f1644eea2b"
   },
   {
-    "fields": { "order": "17", "juz": "17. Cüz" },
+    "order": "17", "juz": "17. Cüz" ,
     "id": "f9cd30c3-a209-490e-a2b6-7ec4099afa8f"
   },
   {
-    "fields": { "order": "18", "juz": "18. Cüz" },
+    "order": "18", "juz": "18. Cüz" ,
     "id": "2bf50560-fde9-403a-9021-20780d09a78f"
   },
   {
-    "fields": { "order": "19", "juz": "19. Cüz" },
+    "order": "19", "juz": "19. Cüz" ,
     "id": "c7a13624-1284-40ac-bd86-bf34523dafa1"
   },
   {
-    "fields": { "order": "20", "juz": "20. Cüz" },
+    "order": "20", "juz": "20. Cüz" ,
     "id": "a268a3df-59ac-46dd-bb9c-53579d845caf"
   },
   {
-    "fields": { "order": "21", "juz": "21. Cüz" },
+    "order": "21", "juz": "21. Cüz" ,
     "id": "d764baec-0693-4c29-8bfa-7e5211240295"
   },
   {
-    "fields": { "order": "22", "juz": "22. Cüz" },
+    "order": "22", "juz": "22. Cüz" ,
     "id": "4ad18f1d-6139-478a-bdb2-abce0f3ba544"
   },
   {
-    "fields": { "order": "23", "juz": "23. Cüz" },
+    "order": "23", "juz": "23. Cüz" ,
     "id": "0c57f455-36ee-4e76-ab17-d3f502f40228"
   },
   {
-    "fields": { "order": "24", "juz": "24. Cüz" },
+    "order": "24", "juz": "24. Cüz" ,
     "id": "b6abd307-15b1-4606-bcc3-950043eb50c6"
   },
   {
-    "fields": { "order": "25", "juz": "25. Cüz" },
+    "order": "25", "juz": "25. Cüz" ,
     "id": "63777fed-24dd-4340-a347-f83782d39be6"
   },
   {
-    "fields": { "order": "26", "juz": "26. Cüz" },
+    "order": "26", "juz": "26. Cüz" ,
     "id": "eb098e5b-e777-41b6-a525-efed71a2f17a"
   },
   {
-    "fields": { "order": "27", "juz": "27. Cüz" },
+    "order": "27", "juz": "27. Cüz" ,
     "id": "fe4d41f6-f8c3-43a5-952e-e95913dcb6b8"
   },
   {
-    "fields": { "order": "28", "juz": "28. Cüz" },
+    "order": "28", "juz": "28. Cüz" ,
     "id": "6520f78d-43ae-48c5-82b2-a3372200624f"
   },
   {
-    "fields": { "order": "29", "juz": "29. Cüz" },
+    "order": "29", "juz": "29. Cüz" ,
     "id": "4d0a60d6-9faa-4214-9586-c4b73a8077b4"
   },
   {
-    "fields": { "order": "30", "juz": "30. Cüz" },
+    "order": "30", "juz": "30. Cüz" ,
     "id": "4ea1552b-93f9-44d3-b99d-a2a251ef617a"
   }
 ]

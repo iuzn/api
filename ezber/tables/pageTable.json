@@ -1,5424 +1,4820 @@
 [
   {
-    "fields": { "order": "1", "juz": "1", "juzorder": "1", "page": "1. Sayfa" },
+     "order": "1", "juz": "1", "juzorder": "1", "page": "1. Sayfa" ,
     "id": "8d690a37-0acf-48b8-99d4-0e6cfc85684d"
   },
-  {
-    "fields": {
-      "order": "2",
+  {"order": "2",
       "juz": "1",
       "juzorder": "2",
-      "page": "2. Sayfa"
-    },
+      "page": "2. Sayfa",
     "id": "e57cd5ff-d84f-44e0-91b6-1f7e89b524e3"
   },
   {
-    "fields": {
+
       "order": "3",
       "juz": "1",
       "juzorder": "3",
-      "page": "3. Sayfa"
-    },
+      "page": "3. Sayfa",
     "id": "8ab4fee8-238a-4ba3-8846-2dfe90ff4838"
   },
   {
-    "fields": {
+
       "order": "4",
       "juz": "1",
       "juzorder": "4",
-      "page": "4. Sayfa"
-    },
+      "page": "4. Sayfa",
     "id": "f6fbbbc0-03b0-4a42-adfb-328e2bc80325"
   },
   {
-    "fields": {
+
       "order": "5",
       "juz": "1",
       "juzorder": "5",
-      "page": "5. Sayfa"
-    },
+      "page": "5. Sayfa",
     "id": "87852e38-46c9-40e6-be02-a545f357246b"
   },
   {
-    "fields": {
+
       "order": "6",
       "juz": "1",
       "juzorder": "6",
-      "page": "6. Sayfa"
-    },
+      "page": "6. Sayfa",
     "id": "6860aafc-b219-4427-a37f-83709abc2e28"
   },
   {
-    "fields": {
+
       "order": "7",
       "juz": "1",
       "juzorder": "7",
-      "page": "7. Sayfa"
-    },
+      "page": "7. Sayfa",
     "id": "0249167f-0706-483b-9d22-8e624f92b42d"
   },
   {
-    "fields": {
+
       "order": "8",
       "juz": "1",
       "juzorder": "8",
-      "page": "8. Sayfa"
-    },
+      "page": "8. Sayfa",
     "id": "3d282d14-4733-4826-b345-ffabcc556419"
   },
   {
-    "fields": {
+
       "order": "9",
       "juz": "1",
       "juzorder": "9",
-      "page": "9. Sayfa"
-    },
+      "page": "9. Sayfa",
     "id": "d93dc87c-1172-40ca-951a-b861ce39e8ef"
   },
   {
-    "fields": {
+
       "order": "10",
       "juz": "1",
       "juzorder": "10",
-      "page": "10. Sayfa"
-    },
+      "page": "10. Sayfa",
     "id": "b8c8a637-7025-4c87-8a22-61699e5e453f"
   },
   {
-    "fields": {
+
       "order": "11",
       "juz": "1",
       "juzorder": "11",
-      "page": "11. Sayfa"
-    },
+      "page": "11. Sayfa",
     "id": "c2b19431-e87f-41cb-bf5e-41089c85838b"
   },
   {
-    "fields": {
+
       "order": "12",
       "juz": "1",
       "juzorder": "12",
-      "page": "12. Sayfa"
-    },
+      "page": "12. Sayfa",
     "id": "076c946e-3fa1-48a5-bfb8-ac03a0267800"
   },
   {
-    "fields": {
+
       "order": "13",
       "juz": "1",
       "juzorder": "13",
-      "page": "13. Sayfa"
-    },
+      "page": "13. Sayfa",
     "id": "1087e5c7-81eb-4ef7-b20e-9d6f7be6e4a4"
   },
   {
-    "fields": {
+
       "order": "14",
       "juz": "1",
       "juzorder": "14",
-      "page": "14. Sayfa"
-    },
+      "page": "14. Sayfa",
     "id": "ac26e601-d866-47a0-9c92-472651596137"
   },
   {
-    "fields": {
+
       "order": "15",
       "juz": "1",
       "juzorder": "15",
-      "page": "15. Sayfa"
-    },
+      "page": "15. Sayfa",
     "id": "524f05e2-cf7e-4dda-945d-440710367ce8"
   },
   {
-    "fields": {
+
       "order": "16",
       "juz": "1",
       "juzorder": "16",
-      "page": "16. Sayfa"
-    },
+      "page": "16. Sayfa",
     "id": "3d33b15c-97a2-4f02-806e-07b6d91a53bf"
   },
   {
-    "fields": {
+
       "order": "17",
       "juz": "1",
       "juzorder": "17",
-      "page": "17. Sayfa"
-    },
+      "page": "17. Sayfa",
     "id": "033404d0-1ac7-422e-9c1a-7d76a2973b6d"
   },
   {
-    "fields": {
+
       "order": "18",
       "juz": "1",
       "juzorder": "18",
-      "page": "18. Sayfa"
-    },
+      "page": "18. Sayfa",
     "id": "dcbd1f07-de2e-47c7-868c-6b63d3775814"
   },
   {
-    "fields": {
+
       "order": "19",
       "juz": "1",
       "juzorder": "19",
-      "page": "19. Sayfa"
-    },
+      "page": "19. Sayfa",
     "id": "483a9db0-ed5e-48cf-9010-f356f59ba561"
   },
   {
-    "fields": {
+
       "order": "20",
       "juz": "1",
       "juzorder": "20",
-      "page": "20. Sayfa"
-    },
+      "page": "20. Sayfa",
     "id": "b7e8e73f-1198-4454-bd03-c5663b023226"
   },
   {
-    "fields": {
+
       "order": "21",
       "juz": "2",
       "juzorder": "1",
-      "page": "21. Sayfa"
-    },
+      "page": "21. Sayfa",
     "id": "9b70fadf-5e96-4b6a-8def-354c12b0f442"
   },
   {
-    "fields": {
+
       "order": "22",
       "juz": "2",
       "juzorder": "2",
-      "page": "22. Sayfa"
-    },
+      "page": "22. Sayfa",
     "id": "ef0ca803-0e78-4c58-8c4e-8f914305e7e4"
   },
   {
-    "fields": {
+
       "order": "23",
       "juz": "2",
       "juzorder": "3",
-      "page": "23. Sayfa"
-    },
+      "page": "23. Sayfa",
     "id": "1ff55b3c-3717-4053-8455-5ec5054f15e2"
   },
   {
-    "fields": {
+
       "order": "24",
       "juz": "2",
       "juzorder": "4",
-      "page": "24. Sayfa"
-    },
+      "page": "24. Sayfa",
     "id": "da3051a6-65cc-4473-bd81-e9bf9b1729f1"
   },
   {
-    "fields": {
+
       "order": "25",
       "juz": "2",
       "juzorder": "5",
-      "page": "25. Sayfa"
-    },
+      "page": "25. Sayfa",
     "id": "061a4b4f-706a-4e9f-9876-6fc84f9e1e99"
   },
   {
-    "fields": {
+
       "order": "26",
       "juz": "2",
       "juzorder": "6",
-      "page": "26. Sayfa"
-    },
+      "page": "26. Sayfa",
     "id": "57c3d0a3-e880-4db7-9a56-3545141d13a8"
   },
   {
-    "fields": {
+
       "order": "27",
       "juz": "2",
       "juzorder": "7",
-      "page": "27. Sayfa"
-    },
+      "page": "27. Sayfa",
     "id": "c54c810c-ec29-4f89-ba94-ab5353b0d4f2"
   },
   {
-    "fields": {
+
       "order": "28",
       "juz": "2",
       "juzorder": "8",
-      "page": "28. Sayfa"
-    },
+      "page": "28. Sayfa",
     "id": "9a3bd2d8-fd86-4b59-90eb-f514a4388f1f"
   },
   {
-    "fields": {
+
       "order": "29",
       "juz": "2",
       "juzorder": "9",
-      "page": "29. Sayfa"
-    },
+      "page": "29. Sayfa",
     "id": "4bf57495-ba95-4e5a-afa8-28dd23862cef"
   },
   {
-    "fields": {
+
       "order": "30",
       "juz": "2",
       "juzorder": "10",
-      "page": "30. Sayfa"
-    },
+      "page": "30. Sayfa",
     "id": "9ec511c2-671f-4c85-8be1-673b1f5589cb"
   },
   {
-    "fields": {
+
       "order": "31",
       "juz": "2",
       "juzorder": "11",
-      "page": "31. Sayfa"
-    },
+      "page": "31. Sayfa",
     "id": "64d77890-4e64-4b1d-a512-291f992e8825"
   },
   {
-    "fields": {
+
       "order": "32",
       "juz": "2",
       "juzorder": "12",
-      "page": "32. Sayfa"
-    },
+      "page": "32. Sayfa",
     "id": "2592a636-7455-49d9-b900-73fd85605b58"
   },
   {
-    "fields": {
+
       "order": "33",
       "juz": "2",
       "juzorder": "13",
-      "page": "33. Sayfa"
-    },
+      "page": "33. Sayfa",
     "id": "e144e5b1-a6bb-4a7e-82a1-5b73986fa7af"
   },
   {
-    "fields": {
+
       "order": "34",
       "juz": "2",
       "juzorder": "14",
-      "page": "34. Sayfa"
-    },
+      "page": "34. Sayfa",
     "id": "537950cd-b065-493a-8e4c-9de074a2804d"
   },
   {
-    "fields": {
+
       "order": "35",
       "juz": "2",
       "juzorder": "15",
-      "page": "35. Sayfa"
-    },
+      "page": "35. Sayfa",
     "id": "915456b9-e892-4ff6-8cfa-8826a2d16144"
   },
   {
-    "fields": {
+
       "order": "36",
       "juz": "2",
       "juzorder": "16",
-      "page": "36. Sayfa"
-    },
+      "page": "36. Sayfa",
     "id": "df9ed354-9ac9-42fb-8ce2-61aa97e52242"
   },
   {
-    "fields": {
+
       "order": "37",
       "juz": "2",
       "juzorder": "17",
-      "page": "37. Sayfa"
-    },
+      "page": "37. Sayfa",
     "id": "d82d7dd0-9ca7-4b7d-90f1-3d2639aafbaf"
   },
   {
-    "fields": {
+
       "order": "38",
       "juz": "2",
       "juzorder": "18",
-      "page": "38. Sayfa"
-    },
+      "page": "38. Sayfa",
     "id": "514feae1-466b-4647-a838-a7687af53a99"
   },
   {
-    "fields": {
+
       "order": "39",
       "juz": "2",
       "juzorder": "19",
-      "page": "39. Sayfa"
-    },
+      "page": "39. Sayfa",
     "id": "0975ede0-c26e-404e-98fb-d0c54e906ebc"
   },
   {
-    "fields": {
+
       "order": "40",
       "juz": "2",
       "juzorder": "20",
-      "page": "40. Sayfa"
-    },
+      "page": "40. Sayfa",
     "id": "6178fd97-1f8f-4dbd-bd9e-0671a1acaa17"
   },
   {
-    "fields": {
+
       "order": "41",
       "juz": "3",
       "juzorder": "1",
-      "page": "41. Sayfa"
-    },
+      "page": "41. Sayfa",
     "id": "72ecea0a-53cd-438d-8133-f8036a26e8ec"
   },
   {
-    "fields": {
+
       "order": "42",
       "juz": "3",
       "juzorder": "2",
-      "page": "42. Sayfa"
-    },
+      "page": "42. Sayfa",
     "id": "a046ca5b-b5f4-42fc-b848-620e237a62a3"
   },
   {
-    "fields": {
+
       "order": "43",
       "juz": "3",
       "juzorder": "3",
-      "page": "43. Sayfa"
-    },
+      "page": "43. Sayfa",
     "id": "ae774e10-109a-4cec-acd7-753162634349"
   },
   {
-    "fields": {
+
       "order": "44",
       "juz": "3",
       "juzorder": "4",
-      "page": "44. Sayfa"
-    },
+      "page": "44. Sayfa",
     "id": "f92dede8-4fe5-4dd6-b3fc-9c6e3e89f06e"
   },
   {
-    "fields": {
+
       "order": "45",
       "juz": "3",
       "juzorder": "5",
-      "page": "45. Sayfa"
-    },
+      "page": "45. Sayfa",
     "id": "95d72c08-b83e-448c-8c42-2ead3856c21e"
   },
   {
-    "fields": {
+
       "order": "46",
       "juz": "3",
       "juzorder": "6",
-      "page": "46. Sayfa"
-    },
+      "page": "46. Sayfa",
     "id": "f4d303d1-d7b1-476e-825a-1bc0d07a263e"
   },
   {
-    "fields": {
+
       "order": "47",
       "juz": "3",
       "juzorder": "7",
-      "page": "47. Sayfa"
-    },
+      "page": "47. Sayfa",
     "id": "dd4ec5ab-3e1e-4839-99d5-3f9ef61a8dd8"
   },
   {
-    "fields": {
+
       "order": "48",
       "juz": "3",
       "juzorder": "8",
-      "page": "48. Sayfa"
-    },
+      "page": "48. Sayfa",
     "id": "90619223-79a1-4821-9eff-508410846a54"
   },
   {
-    "fields": {
+
       "order": "49",
       "juz": "3",
       "juzorder": "9",
-      "page": "49. Sayfa"
-    },
+      "page": "49. Sayfa",
     "id": "555d503d-d63b-45a3-9e43-d016c9741bc5"
   },
   {
-    "fields": {
+
       "order": "50",
       "juz": "3",
       "juzorder": "10",
-      "page": "50. Sayfa"
-    },
+      "page": "50. Sayfa",
     "id": "b92c00a7-8553-47b8-b207-5b94daf23a1b"
   },
   {
-    "fields": {
+
       "order": "51",
       "juz": "3",
       "juzorder": "11",
-      "page": "51. Sayfa"
-    },
+      "page": "51. Sayfa",
     "id": "c1a91f5a-cc02-4aa0-bb4d-d8a9a2c251ae"
   },
   {
-    "fields": {
+
       "order": "52",
       "juz": "3",
       "juzorder": "12",
-      "page": "52. Sayfa"
-    },
+      "page": "52. Sayfa",
     "id": "7bd14f2e-12c8-441e-98f0-1d13719df2cd"
   },
   {
-    "fields": {
+
       "order": "53",
       "juz": "3",
       "juzorder": "13",
-      "page": "53. Sayfa"
-    },
+      "page": "53. Sayfa",
     "id": "eacf4397-e2db-4ca5-850c-8547fefe6981"
   },
   {
-    "fields": {
+
       "order": "54",
       "juz": "3",
       "juzorder": "14",
-      "page": "54. Sayfa"
-    },
+      "page": "54. Sayfa",
     "id": "6adfdf6d-de0e-4a19-a4e2-890e64e5e004"
   },
   {
-    "fields": {
+
       "order": "55",
       "juz": "3",
       "juzorder": "15",
-      "page": "55. Sayfa"
-    },
+      "page": "55. Sayfa",
     "id": "33d8cb06-f56a-4a0e-a224-1073c7615b22"
   },
   {
-    "fields": {
+
       "order": "56",
       "juz": "3",
       "juzorder": "16",
-      "page": "56. Sayfa"
-    },
+      "page": "56. Sayfa",
     "id": "84c6d2c3-523f-477a-a1cf-9ce8682cac63"
   },
   {
-    "fields": {
+
       "order": "57",
       "juz": "3",
       "juzorder": "17",
-      "page": "57. Sayfa"
-    },
+      "page": "57. Sayfa",
     "id": "71112eb2-0904-4ba7-9b93-78b39fcb3a49"
   },
   {
-    "fields": {
+
       "order": "58",
       "juz": "3",
       "juzorder": "18",
-      "page": "58. Sayfa"
-    },
+      "page": "58. Sayfa",
     "id": "4eabe9be-f439-44ab-b3a4-2904af3717c1"
   },
   {
-    "fields": {
+
       "order": "59",
       "juz": "3",
       "juzorder": "19",
-      "page": "59. Sayfa"
-    },
+      "page": "59. Sayfa",
     "id": "99b9b16d-a65a-4e05-9d8a-0cb30bb04104"
   },
   {
-    "fields": {
+
       "order": "60",
       "juz": "3",
       "juzorder": "20",
-      "page": "60. Sayfa"
-    },
+      "page": "60. Sayfa",
     "id": "b26bb4ea-874c-4355-966b-3d443863538e"
   },
   {
-    "fields": {
+
       "order": "61",
       "juz": "4",
       "juzorder": "1",
-      "page": "61. Sayfa"
-    },
+      "page": "61. Sayfa",
     "id": "67d077d4-da12-4ac3-8eef-67ba1625bf2c"
   },
   {
-    "fields": {
+
       "order": "62",
       "juz": "4",
       "juzorder": "2",
-      "page": "62. Sayfa"
-    },
+      "page": "62. Sayfa",
     "id": "71d8f393-8882-4af9-b02b-ba4b2a9f15f4"
   },
   {
-    "fields": {
+
       "order": "63",
       "juz": "4",
       "juzorder": "3",
-      "page": "63. Sayfa"
-    },
+      "page": "63. Sayfa",
     "id": "88d8e6a9-63a3-4fb7-a151-c4253e569474"
   },
   {
-    "fields": {
+
       "order": "64",
       "juz": "4",
       "juzorder": "4",
-      "page": "64. Sayfa"
-    },
+      "page": "64. Sayfa",
     "id": "c767e19a-7fbe-4705-94bc-0f2083094ec5"
   },
   {
-    "fields": {
+
       "order": "65",
       "juz": "4",
       "juzorder": "5",
-      "page": "65. Sayfa"
-    },
+      "page": "65. Sayfa",
     "id": "81f9608f-fb6f-4134-8f48-1557304e309e"
   },
   {
-    "fields": {
+
       "order": "66",
       "juz": "4",
       "juzorder": "6",
-      "page": "66. Sayfa"
-    },
+      "page": "66. Sayfa",
     "id": "8b846c41-4ab5-4126-8a78-4905a3483514"
   },
   {
-    "fields": {
+
       "order": "67",
       "juz": "4",
       "juzorder": "7",
-      "page": "67. Sayfa"
-    },
+      "page": "67. Sayfa",
     "id": "4e028c12-be63-450b-b144-862d959cc765"
   },
   {
-    "fields": {
+
       "order": "68",
       "juz": "4",
       "juzorder": "8",
-      "page": "68. Sayfa"
-    },
+      "page": "68. Sayfa",
     "id": "da585ee9-da21-4053-8e4d-c7f27353112d"
   },
   {
-    "fields": {
+
       "order": "69",
       "juz": "4",
       "juzorder": "9",
-      "page": "69. Sayfa"
-    },
+      "page": "69. Sayfa",
     "id": "b1910b0c-45e5-4f69-93b8-aa628faee0e6"
   },
   {
-    "fields": {
+
       "order": "70",
       "juz": "4",
       "juzorder": "10",
-      "page": "70. Sayfa"
-    },
+      "page": "70. Sayfa",
     "id": "f7ddbf48-74f3-439a-a5a0-0c978e61f0ae"
   },
   {
-    "fields": {
+
       "order": "71",
       "juz": "4",
       "juzorder": "11",
-      "page": "71. Sayfa"
-    },
+      "page": "71. Sayfa",
     "id": "cfd7c0f2-02eb-4095-8740-3d408b286385"
   },
   {
-    "fields": {
+
       "order": "72",
       "juz": "4",
       "juzorder": "12",
-      "page": "72. Sayfa"
-    },
+      "page": "72. Sayfa",
     "id": "ad1953d3-2ce4-4f0a-98ad-db572d044a2f"
   },
   {
-    "fields": {
+
       "order": "73",
       "juz": "4",
       "juzorder": "13",
-      "page": "73. Sayfa"
-    },
+      "page": "73. Sayfa",
     "id": "c544389b-0d46-483c-8465-40295b6a248f"
   },
   {
-    "fields": {
+
       "order": "74",
       "juz": "4",
       "juzorder": "14",
-      "page": "74. Sayfa"
-    },
+      "page": "74. Sayfa",
     "id": "ea1f11c0-3c74-4dae-80fa-0c6e66e3aca6"
   },
   {
-    "fields": {
+
       "order": "75",
       "juz": "4",
       "juzorder": "15",
-      "page": "75. Sayfa"
-    },
+      "page": "75. Sayfa",
     "id": "c6887589-a115-45cc-afc1-cbc88e8293c6"
   },
   {
-    "fields": {
+
       "order": "76",
       "juz": "4",
       "juzorder": "16",
-      "page": "76. Sayfa"
-    },
+      "page": "76. Sayfa",
     "id": "23c7b9a3-a975-446b-a21a-46c06814aa52"
   },
   {
-    "fields": {
+
       "order": "77",
       "juz": "4",
       "juzorder": "17",
-      "page": "77. Sayfa"
-    },
+      "page": "77. Sayfa",
     "id": "cadde0cd-d6d1-412d-a83d-8e0561dcc3a0"
   },
   {
-    "fields": {
+
       "order": "78",
       "juz": "4",
       "juzorder": "18",
-      "page": "78. Sayfa"
-    },
+      "page": "78. Sayfa",
     "id": "b0b4087a-d2a7-49a1-a30e-ef2b9dc8f0ba"
   },
   {
-    "fields": {
+
       "order": "79",
       "juz": "4",
       "juzorder": "19",
-      "page": "79. Sayfa"
-    },
+      "page": "79. Sayfa",
     "id": "c44b2c8f-28c8-4d0e-a5cb-a098e3b0d440"
   },
   {
-    "fields": {
+
       "order": "80",
       "juz": "4",
       "juzorder": "20",
-      "page": "80. Sayfa"
-    },
+      "page": "80. Sayfa",
     "id": "baf4805a-c2f8-4540-9289-10c9f1c50277"
   },
   {
-    "fields": {
+
       "order": "81",
       "juz": "5",
       "juzorder": "1",
-      "page": "81. Sayfa"
-    },
+      "page": "81. Sayfa",
     "id": "ca7f6f00-6141-4338-b21c-e49a024bbfc9"
   },
   {
-    "fields": {
+
       "order": "82",
       "juz": "5",
       "juzorder": "2",
-      "page": "82. Sayfa"
-    },
+      "page": "82. Sayfa",
     "id": "82bba9e0-3d9b-4165-9fbb-9df793f170cd"
   },
   {
-    "fields": {
+
       "order": "83",
       "juz": "5",
       "juzorder": "3",
-      "page": "83. Sayfa"
-    },
+      "page": "83. Sayfa",
     "id": "9ca74604-31f2-409a-bfad-4e689efc4366"
   },
   {
-    "fields": {
+
       "order": "84",
       "juz": "5",
       "juzorder": "4",
-      "page": "84. Sayfa"
-    },
+      "page": "84. Sayfa",
     "id": "c42ce5b7-c6fd-4c57-8a18-c7f684b768c2"
   },
   {
-    "fields": {
+
       "order": "85",
       "juz": "5",
       "juzorder": "5",
-      "page": "85. Sayfa"
-    },
+      "page": "85. Sayfa",
     "id": "c38da938-6d7a-4a74-9fb3-d1bf5e43e5f6"
   },
   {
-    "fields": {
+
       "order": "86",
       "juz": "5",
       "juzorder": "6",
-      "page": "86. Sayfa"
-    },
+      "page": "86. Sayfa",
     "id": "ea88a46c-336c-4bed-8854-95703981c315"
   },
   {
-    "fields": {
+
       "order": "87",
       "juz": "5",
       "juzorder": "7",
-      "page": "87. Sayfa"
-    },
+      "page": "87. Sayfa",
     "id": "e983b9d2-4276-4e1d-9137-ad8b3451c6ea"
   },
   {
-    "fields": {
+
       "order": "88",
       "juz": "5",
       "juzorder": "8",
-      "page": "88. Sayfa"
-    },
+      "page": "88. Sayfa",
     "id": "3bcae1bf-7481-4201-98c9-e0f27ba5503b"
   },
   {
-    "fields": {
+
       "order": "89",
       "juz": "5",
       "juzorder": "9",
-      "page": "89. Sayfa"
-    },
+      "page": "89. Sayfa",
     "id": "82975457-d9cc-4c69-b738-4d440ac2d709"
   },
   {
-    "fields": {
+
       "order": "90",
       "juz": "5",
       "juzorder": "10",
-      "page": "90. Sayfa"
-    },
+      "page": "90. Sayfa",
     "id": "32bd04d7-4f9e-4be4-b26f-0bbc7c4271bb"
   },
   {
-    "fields": {
+
       "order": "91",
       "juz": "5",
       "juzorder": "11",
-      "page": "91. Sayfa"
-    },
+      "page": "91. Sayfa",
     "id": "cdb2423d-f017-462f-91cb-35c99e252fbe"
   },
   {
-    "fields": {
+
       "order": "92",
       "juz": "5",
       "juzorder": "12",
-      "page": "92. Sayfa"
-    },
+      "page": "92. Sayfa",
     "id": "c880b0ec-2ac4-47ca-af20-360e9a2929d5"
   },
   {
-    "fields": {
+
       "order": "93",
       "juz": "5",
       "juzorder": "13",
-      "page": "93. Sayfa"
-    },
+      "page": "93. Sayfa",
     "id": "73c8e04e-37f9-4506-ba22-f32a198e722b"
   },
   {
-    "fields": {
+
       "order": "94",
       "juz": "5",
       "juzorder": "14",
-      "page": "94. Sayfa"
-    },
+      "page": "94. Sayfa",
     "id": "e365e7b1-0402-4e26-acc8-f44d25ea0645"
   },
   {
-    "fields": {
+
       "order": "95",
       "juz": "5",
       "juzorder": "15",
-      "page": "95. Sayfa"
-    },
+      "page": "95. Sayfa",
     "id": "e524f4ba-b381-406b-af97-8f15b0197116"
   },
   {
-    "fields": {
+
       "order": "96",
       "juz": "5",
       "juzorder": "16",
-      "page": "96. Sayfa"
-    },
+      "page": "96. Sayfa",
     "id": "c60e93ea-a199-48a2-a5da-6c364e43c10d"
   },
   {
-    "fields": {
+
       "order": "97",
       "juz": "5",
       "juzorder": "17",
-      "page": "97. Sayfa"
-    },
+      "page": "97. Sayfa",
     "id": "87fda4ef-8526-49e2-a295-2317019604dc"
   },
   {
-    "fields": {
+
       "order": "98",
       "juz": "5",
       "juzorder": "18",
-      "page": "98. Sayfa"
-    },
+      "page": "98. Sayfa",
     "id": "10305bfb-49b6-4ddf-8803-ac42fb6726ef"
   },
   {
-    "fields": {
+
       "order": "99",
       "juz": "5",
       "juzorder": "19",
-      "page": "99. Sayfa"
-    },
+      "page": "99. Sayfa",
     "id": "cee0f8de-6cf5-4f58-9aed-902f6474ea13"
   },
   {
-    "fields": {
+
       "order": "100",
       "juz": "5",
       "juzorder": "20",
-      "page": "100. Sayfa"
-    },
+      "page": "100. Sayfa",
     "id": "4f38ce9a-7280-4a6f-817f-eeac881776b6"
   },
   {
-    "fields": {
+
       "order": "101",
       "juz": "6",
       "juzorder": "1",
-      "page": "101. Sayfa"
-    },
+      "page": "101. Sayfa",
     "id": "d9fb44fe-e8cf-4cb2-a023-dbeb2eb38099"
   },
   {
-    "fields": {
+
       "order": "102",
       "juz": "6",
       "juzorder": "2",
-      "page": "102. Sayfa"
-    },
+      "page": "102. Sayfa",
     "id": "45dd7541-1fb2-4d54-9ed9-c9cec35c14ba"
   },
   {
-    "fields": {
+
       "order": "103",
       "juz": "6",
       "juzorder": "3",
-      "page": "103. Sayfa"
-    },
+      "page": "103. Sayfa",
     "id": "695f5f7a-cae5-4b01-ace9-24332fa96423"
   },
   {
-    "fields": {
+
       "order": "104",
       "juz": "6",
       "juzorder": "4",
-      "page": "104. Sayfa"
-    },
+      "page": "104. Sayfa",
     "id": "adf67299-7d2f-4043-b444-6bb0a3a64f4f"
   },
   {
-    "fields": {
+
       "order": "105",
       "juz": "6",
       "juzorder": "5",
-      "page": "105. Sayfa"
-    },
+      "page": "105. Sayfa",
     "id": "d25eaaf2-266e-4bd4-9fef-cf1479bb1853"
   },
   {
-    "fields": {
+
       "order": "106",
       "juz": "6",
       "juzorder": "6",
-      "page": "106. Sayfa"
-    },
+      "page": "106. Sayfa",
     "id": "d31fb45d-73f7-4c6e-8ee6-798bae0f3168"
   },
   {
-    "fields": {
+
       "order": "107",
       "juz": "6",
       "juzorder": "7",
-      "page": "107. Sayfa"
-    },
+      "page": "107. Sayfa",
     "id": "df93314c-1d85-464f-aa46-41e2ab425bba"
   },
   {
-    "fields": {
+
       "order": "108",
       "juz": "6",
       "juzorder": "8",
-      "page": "108. Sayfa"
-    },
+      "page": "108. Sayfa",
     "id": "a93c7202-966a-41fc-bfeb-0cbf2ca60448"
   },
   {
-    "fields": {
+
       "order": "109",
       "juz": "6",
       "juzorder": "9",
-      "page": "109. Sayfa"
-    },
+      "page": "109. Sayfa",
     "id": "a25ee343-9e4f-4984-a7ce-b7c7ec43f58e"
   },
   {
-    "fields": {
+
       "order": "110",
       "juz": "6",
       "juzorder": "10",
-      "page": "110. Sayfa"
-    },
+      "page": "110. Sayfa",
     "id": "f981bb30-caad-402d-b107-517fb14a8db2"
   },
   {
-    "fields": {
+
       "order": "111",
       "juz": "6",
       "juzorder": "11",
-      "page": "111. Sayfa"
-    },
+      "page": "111. Sayfa",
     "id": "b90db43e-7d57-4aba-abe0-8bceac4e6b9e"
   },
   {
-    "fields": {
+
       "order": "112",
       "juz": "6",
       "juzorder": "12",
-      "page": "112. Sayfa"
-    },
+      "page": "112. Sayfa",
     "id": "3540e276-443e-4b58-a3d2-6ba7ab719b26"
   },
   {
-    "fields": {
+
       "order": "113",
       "juz": "6",
       "juzorder": "13",
-      "page": "113. Sayfa"
-    },
+      "page": "113. Sayfa",
     "id": "d74d05d8-3cd5-41d7-ac4f-0ca48637787a"
   },
   {
-    "fields": {
+
       "order": "114",
       "juz": "6",
       "juzorder": "14",
-      "page": "114. Sayfa"
-    },
+      "page": "114. Sayfa",
     "id": "5c4b5887-b465-49ee-8b40-427217df7133"
   },
   {
-    "fields": {
+
       "order": "115",
       "juz": "6",
       "juzorder": "15",
-      "page": "115. Sayfa"
-    },
+      "page": "115. Sayfa",
     "id": "b284103d-6713-47f1-8e97-6a4cfb1ab7be"
   },
   {
-    "fields": {
+
       "order": "116",
       "juz": "6",
       "juzorder": "16",
-      "page": "116. Sayfa"
-    },
+      "page": "116. Sayfa",
     "id": "d8f1b42d-6f00-4925-a601-8f5d2887114d"
   },
   {
-    "fields": {
+
       "order": "117",
       "juz": "6",
       "juzorder": "17",
-      "page": "117. Sayfa"
-    },
+      "page": "117. Sayfa",
     "id": "3d0f7d91-dbfb-4ba9-b711-130c2b2634cf"
   },
   {
-    "fields": {
+
       "order": "118",
       "juz": "6",
       "juzorder": "18",
-      "page": "118. Sayfa"
-    },
+      "page": "118. Sayfa",
     "id": "18b96770-a316-46c5-ae51-ed3c8977bb8c"
   },
   {
-    "fields": {
+
       "order": "119",
       "juz": "6",
       "juzorder": "19",
-      "page": "119. Sayfa"
-    },
+      "page": "119. Sayfa",
     "id": "58ae8278-ce36-4d2d-963b-d57a3c7ac5de"
   },
   {
-    "fields": {
+
       "order": "120",
       "juz": "6",
       "juzorder": "20",
-      "page": "120. Sayfa"
-    },
+      "page": "120. Sayfa",
     "id": "bb997d17-f7cc-4e09-9f5d-6ea2ca640f09"
   },
   {
-    "fields": {
+
       "order": "121",
       "juz": "7",
       "juzorder": "1",
-      "page": "121. Sayfa"
-    },
+      "page": "121. Sayfa",
     "id": "b2ca7cf4-fb28-4586-af72-00276aeaf4eb"
   },
   {
-    "fields": {
+
       "order": "122",
       "juz": "7",
       "juzorder": "2",
-      "page": "122. Sayfa"
-    },
+      "page": "122. Sayfa",
     "id": "8db10742-d53a-47da-a08e-627e6892e1d5"
   },
   {
-    "fields": {
+
       "order": "123",
       "juz": "7",
       "juzorder": "3",
-      "page": "123. Sayfa"
-    },
+      "page": "123. Sayfa",
     "id": "75f42312-5574-4d96-ba56-def8f146989c"
   },
   {
-    "fields": {
+
       "order": "124",
       "juz": "7",
       "juzorder": "4",
-      "page": "124. Sayfa"
-    },
+      "page": "124. Sayfa",
     "id": "55e25abe-5345-4de3-b1b1-ddb1a004e61d"
   },
   {
-    "fields": {
+
       "order": "125",
       "juz": "7",
       "juzorder": "5",
-      "page": "125. Sayfa"
-    },
+      "page": "125. Sayfa",
     "id": "af3d9fe1-9386-43cb-9d60-ddcecb7c8cc9"
   },
   {
-    "fields": {
+
       "order": "126",
       "juz": "7",
       "juzorder": "6",
-      "page": "126. Sayfa"
-    },
+      "page": "126. Sayfa",
     "id": "38f4b59a-113a-4666-8e75-d11cbe2d7eb7"
   },
   {
-    "fields": {
+
       "order": "127",
       "juz": "7",
       "juzorder": "7",
-      "page": "127. Sayfa"
-    },
+      "page": "127. Sayfa",
     "id": "edd14db0-6901-45f7-96b0-d371dc9f5279"
   },
   {
-    "fields": {
+
       "order": "128",
       "juz": "7",
       "juzorder": "8",
-      "page": "128. Sayfa"
-    },
+      "page": "128. Sayfa",
     "id": "65e49df7-62fa-4bb9-a66c-801e96e8cc53"
   },
   {
-    "fields": {
+
       "order": "129",
       "juz": "7",
       "juzorder": "9",
-      "page": "129. Sayfa"
-    },
+      "page": "129. Sayfa",
     "id": "028bd1ec-9124-4942-9b1a-9c297350388d"
   },
   {
-    "fields": {
+
       "order": "130",
       "juz": "7",
       "juzorder": "10",
-      "page": "130. Sayfa"
-    },
+      "page": "130. Sayfa",
     "id": "402e8a89-a0ba-4f9a-abb0-d72bfa4c8e55"
   },
   {
-    "fields": {
+
       "order": "131",
       "juz": "7",
       "juzorder": "11",
-      "page": "131. Sayfa"
-    },
+      "page": "131. Sayfa",
     "id": "f983100a-766a-4229-a92a-2fb19884329c"
   },
   {
-    "fields": {
+
       "order": "132",
       "juz": "7",
       "juzorder": "12",
-      "page": "132. Sayfa"
-    },
+      "page": "132. Sayfa",
     "id": "f4c703cd-04fe-482f-8ef1-c56add4443b0"
   },
   {
-    "fields": {
+
       "order": "133",
       "juz": "7",
       "juzorder": "13",
-      "page": "133. Sayfa"
-    },
+      "page": "133. Sayfa",
     "id": "cf3ed311-975e-4877-9ca0-1adfa56dab00"
   },
   {
-    "fields": {
+
       "order": "134",
       "juz": "7",
       "juzorder": "14",
-      "page": "134. Sayfa"
-    },
+      "page": "134. Sayfa",
     "id": "bdcfec65-676d-4724-a535-fcebc9fc79fe"
   },
   {
-    "fields": {
+
       "order": "135",
       "juz": "7",
       "juzorder": "15",
-      "page": "135. Sayfa"
-    },
+      "page": "135. Sayfa",
     "id": "55082e4c-90ce-4bb5-ae82-dcf0b8a6f900"
   },
   {
-    "fields": {
+
       "order": "136",
       "juz": "7",
       "juzorder": "16",
-      "page": "136. Sayfa"
-    },
+      "page": "136. Sayfa",
     "id": "e42aefee-54cd-455d-8c0e-7f97a0cb46f1"
   },
   {
-    "fields": {
+
       "order": "137",
       "juz": "7",
       "juzorder": "17",
-      "page": "137. Sayfa"
-    },
+      "page": "137. Sayfa",
     "id": "9d6ae24b-ba80-40c4-ad80-2ebf41f931f0"
   },
   {
-    "fields": {
+
       "order": "138",
       "juz": "7",
       "juzorder": "18",
-      "page": "138. Sayfa"
-    },
+      "page": "138. Sayfa",
     "id": "3dcd0928-e6b1-4d7c-90a2-56cc350f040d"
   },
   {
-    "fields": {
+
       "order": "139",
       "juz": "7",
       "juzorder": "19",
-      "page": "139. Sayfa"
-    },
+      "page": "139. Sayfa",
     "id": "c9da9db8-5a83-47b8-aa64-67cfb42ad8b6"
   },
   {
-    "fields": {
+
       "order": "140",
       "juz": "7",
       "juzorder": "20",
-      "page": "140. Sayfa"
-    },
+      "page": "140. Sayfa",
     "id": "684d9d61-6730-46ad-ac83-ec34b93e278d"
   },
   {
-    "fields": {
+
       "order": "141",
       "juz": "8",
       "juzorder": "1",
-      "page": "141. Sayfa"
-    },
+      "page": "141. Sayfa",
     "id": "79f7868d-9197-4519-bef8-1946d0ab8d0b"
   },
   {
-    "fields": {
+
       "order": "142",
       "juz": "8",
       "juzorder": "2",
-      "page": "142. Sayfa"
-    },
+      "page": "142. Sayfa",
     "id": "33ad52cd-f495-4f2b-92e5-496d95e459e8"
   },
   {
-    "fields": {
+
       "order": "143",
       "juz": "8",
       "juzorder": "3",
-      "page": "143. Sayfa"
-    },
+      "page": "143. Sayfa",
     "id": "772fa777-5da4-43ff-b0a0-0f0ec219fcc4"
   },
   {
-    "fields": {
+
       "order": "144",
       "juz": "8",
       "juzorder": "4",
-      "page": "144. Sayfa"
-    },
+      "page": "144. Sayfa",
     "id": "81932421-ca3d-45c0-ae37-da020f5f5b4f"
   },
   {
-    "fields": {
+
       "order": "145",
       "juz": "8",
       "juzorder": "5",
-      "page": "145. Sayfa"
-    },
+      "page": "145. Sayfa",
     "id": "3727af0b-842f-47d7-aa25-6eff651153d8"
   },
   {
-    "fields": {
+
       "order": "146",
       "juz": "8",
       "juzorder": "6",
-      "page": "146. Sayfa"
-    },
+      "page": "146. Sayfa",
     "id": "8d6ba2a3-8892-4b81-8ef5-3b7dce312d27"
   },
   {
-    "fields": {
+
       "order": "147",
       "juz": "8",
       "juzorder": "7",
-      "page": "147. Sayfa"
-    },
+      "page": "147. Sayfa",
     "id": "6dcdd79e-0ea3-49cb-85a1-06a000eec9ff"
   },
   {
-    "fields": {
+
       "order": "148",
       "juz": "8",
       "juzorder": "8",
-      "page": "148. Sayfa"
-    },
+      "page": "148. Sayfa",
     "id": "2a37d5e3-4064-4bf8-b770-4a94f87ed087"
   },
   {
-    "fields": {
+
       "order": "149",
       "juz": "8",
       "juzorder": "9",
-      "page": "149. Sayfa"
-    },
+      "page": "149. Sayfa",
     "id": "1035e992-4690-4550-b6cf-cc02c0e36bdd"
   },
   {
-    "fields": {
+
       "order": "150",
       "juz": "8",
       "juzorder": "10",
-      "page": "150. Sayfa"
-    },
+      "page": "150. Sayfa",
     "id": "1d258ea0-2f03-456f-a350-4190e0e0bf7d"
   },
   {
-    "fields": {
+
       "order": "151",
       "juz": "8",
       "juzorder": "11",
-      "page": "151. Sayfa"
-    },
+      "page": "151. Sayfa",
     "id": "44bbecdd-6d51-4f87-bcaf-f4e64aa21846"
   },
   {
-    "fields": {
+
       "order": "152",
       "juz": "8",
       "juzorder": "12",
-      "page": "152. Sayfa"
-    },
+      "page": "152. Sayfa",
     "id": "40ff0947-89b7-4f93-8454-310f6def768c"
   },
   {
-    "fields": {
+
       "order": "153",
       "juz": "8",
       "juzorder": "13",
-      "page": "153. Sayfa"
-    },
+      "page": "153. Sayfa",
     "id": "4c9f1660-8be1-41d4-aacc-a3a0dc00d05e"
   },
   {
-    "fields": {
+
       "order": "154",
       "juz": "8",
       "juzorder": "14",
-      "page": "154. Sayfa"
-    },
+      "page": "154. Sayfa",
     "id": "87c4383a-e815-4125-9bd4-2805275435f8"
   },
   {
-    "fields": {
+
       "order": "155",
       "juz": "8",
       "juzorder": "15",
-      "page": "155. Sayfa"
-    },
+      "page": "155. Sayfa",
     "id": "fe2ed544-50b3-4cac-baca-31ea1afc8427"
   },
   {
-    "fields": {
+
       "order": "156",
       "juz": "8",
       "juzorder": "16",
-      "page": "156. Sayfa"
-    },
+      "page": "156. Sayfa",
     "id": "d7b9a3ab-5949-4635-8e4f-cad3835dfaa6"
   },
   {
-    "fields": {
+
       "order": "157",
       "juz": "8",
       "juzorder": "17",
-      "page": "157. Sayfa"
-    },
+      "page": "157. Sayfa",
     "id": "26218a28-fa17-4b0c-a292-81b1e28934b7"
   },
   {
-    "fields": {
+
       "order": "158",
       "juz": "8",
       "juzorder": "18",
-      "page": "158. Sayfa"
-    },
+      "page": "158. Sayfa",
     "id": "15caf8b5-71c8-4a0f-961f-f34cedaeb96d"
   },
   {
-    "fields": {
+
       "order": "159",
       "juz": "8",
       "juzorder": "19",
-      "page": "159. Sayfa"
-    },
+      "page": "159. Sayfa",
     "id": "2c541b75-2aa9-4d95-88b7-2265eacb966a"
   },
   {
-    "fields": {
+
       "order": "160",
       "juz": "8",
       "juzorder": "20",
-      "page": "160. Sayfa"
-    },
+      "page": "160. Sayfa",
     "id": "37dcc767-2f4b-4634-ac84-6ae270135bfe"
   },
   {
-    "fields": {
+
       "order": "161",
       "juz": "9",
       "juzorder": "1",
-      "page": "161. Sayfa"
-    },
+      "page": "161. Sayfa",
     "id": "79a864ae-36bb-4bd6-b817-75107d78316a"
   },
   {
-    "fields": {
+
       "order": "162",
       "juz": "9",
       "juzorder": "2",
-      "page": "162. Sayfa"
-    },
+      "page": "162. Sayfa",
     "id": "f02ac76b-4be3-49bb-a484-5521024fd02c"
   },
   {
-    "fields": {
+
       "order": "163",
       "juz": "9",
       "juzorder": "3",
-      "page": "163. Sayfa"
-    },
+      "page": "163. Sayfa",
     "id": "4e8e2807-0c11-4160-9629-f961e269e9e0"
   },
   {
-    "fields": {
+
       "order": "164",
       "juz": "9",
       "juzorder": "4",
-      "page": "164. Sayfa"
-    },
+      "page": "164. Sayfa",
     "id": "8fe651a6-1446-4578-b03b-ab8ef8069125"
   },
   {
-    "fields": {
+
       "order": "165",
       "juz": "9",
       "juzorder": "5",
-      "page": "165. Sayfa"
-    },
+      "page": "165. Sayfa",
     "id": "829f16c2-0115-43b4-830a-ce371c0f7889"
   },
   {
-    "fields": {
+
       "order": "166",
       "juz": "9",
       "juzorder": "6",
-      "page": "166. Sayfa"
-    },
+      "page": "166. Sayfa",
     "id": "828e79f8-3684-4ce5-b778-fe4538ca9193"
   },
   {
-    "fields": {
+
       "order": "167",
       "juz": "9",
       "juzorder": "7",
-      "page": "167. Sayfa"
-    },
+      "page": "167. Sayfa",
     "id": "d048107f-cc00-4fe0-9875-8c1bc0629638"
   },
   {
-    "fields": {
+
       "order": "168",
       "juz": "9",
       "juzorder": "8",
-      "page": "168. Sayfa"
-    },
+      "page": "168. Sayfa",
     "id": "4a8935bd-5d08-46ef-8b59-ae2fa986b433"
   },
   {
-    "fields": {
+
       "order": "169",
       "juz": "9",
       "juzorder": "9",
-      "page": "169. Sayfa"
-    },
+      "page": "169. Sayfa",
     "id": "34d62f71-0e0f-40c3-a07a-43572f1160c5"
   },
   {
-    "fields": {
+
       "order": "170",
       "juz": "9",
       "juzorder": "10",
-      "page": "170. Sayfa"
-    },
+      "page": "170. Sayfa",
     "id": "98cb40e8-cd9c-4314-a4bd-7bbab73bde54"
   },
   {
-    "fields": {
+
       "order": "171",
       "juz": "9",
       "juzorder": "11",
-      "page": "171. Sayfa"
-    },
+      "page": "171. Sayfa",
     "id": "61ff250e-a71d-4cac-9281-dfa25cf04b86"
   },
   {
-    "fields": {
+
       "order": "172",
       "juz": "9",
       "juzorder": "12",
-      "page": "172. Sayfa"
-    },
+      "page": "172. Sayfa",
     "id": "519906da-013a-45a7-a689-1380f098d36b"
   },
   {
-    "fields": {
+
       "order": "173",
       "juz": "9",
       "juzorder": "13",
-      "page": "173. Sayfa"
-    },
+      "page": "173. Sayfa",
     "id": "cb045a78-185e-421f-a58b-6002d1e002b1"
   },
   {
-    "fields": {
+
       "order": "174",
       "juz": "9",
       "juzorder": "14",
-      "page": "174. Sayfa"
-    },
+      "page": "174. Sayfa",
     "id": "cfbc2835-9643-4395-a15b-9d5f816a6d83"
   },
   {
-    "fields": {
+
       "order": "175",
       "juz": "9",
       "juzorder": "15",
-      "page": "175. Sayfa"
-    },
+      "page": "175. Sayfa",
     "id": "af99b28b-2866-483e-9114-960f061ef78a"
   },
   {
-    "fields": {
+
       "order": "176",
       "juz": "9",
       "juzorder": "16",
-      "page": "176. Sayfa"
-    },
+      "page": "176. Sayfa",
     "id": "5dec2ece-2a5b-46cc-886f-400452ac5d07"
   },
   {
-    "fields": {
+
       "order": "177",
       "juz": "9",
       "juzorder": "17",
-      "page": "177. Sayfa"
-    },
+      "page": "177. Sayfa",
     "id": "5445e8ac-6eb3-4a2c-891a-2676e777ff1f"
   },
   {
-    "fields": {
+
       "order": "178",
       "juz": "9",
       "juzorder": "18",
-      "page": "178. Sayfa"
-    },
+      "page": "178. Sayfa",
     "id": "2d86fd41-56ff-4324-a16e-ad00090c409e"
   },
   {
-    "fields": {
+
       "order": "179",
       "juz": "9",
       "juzorder": "19",
-      "page": "179. Sayfa"
-    },
+      "page": "179. Sayfa",
     "id": "823aafd4-78cb-4e90-90cf-9e0d0f9a3342"
   },
   {
-    "fields": {
+
       "order": "180",
       "juz": "9",
       "juzorder": "20",
-      "page": "180. Sayfa"
-    },
+      "page": "180. Sayfa",
     "id": "bed2af33-0f9e-4a73-9cb9-59330e4254d7"
   },
   {
-    "fields": {
+
       "order": "181",
       "juz": "10",
       "juzorder": "1",
-      "page": "181. Sayfa"
-    },
+      "page": "181. Sayfa",
     "id": "4115f2bb-2336-4fe0-8750-3dee5ff88a03"
   },
   {
-    "fields": {
+
       "order": "182",
       "juz": "10",
       "juzorder": "2",
-      "page": "182. Sayfa"
-    },
+      "page": "182. Sayfa",
     "id": "ead589a6-e400-47ee-9f41-d07395a26622"
   },
   {
-    "fields": {
+
       "order": "183",
       "juz": "10",
       "juzorder": "3",
-      "page": "183. Sayfa"
-    },
+      "page": "183. Sayfa",
     "id": "9ff378e7-2640-4697-ae3e-842053afbf26"
   },
   {
-    "fields": {
+
       "order": "184",
       "juz": "10",
       "juzorder": "4",
-      "page": "184. Sayfa"
-    },
+      "page": "184. Sayfa",
     "id": "cf08a0f8-be57-4b1b-9739-7243dbfc2950"
   },
   {
-    "fields": {
+
       "order": "185",
       "juz": "10",
       "juzorder": "5",
-      "page": "185. Sayfa"
-    },
+      "page": "185. Sayfa",
     "id": "e700db42-7807-4a45-9665-79fc3daaa526"
   },
   {
-    "fields": {
+
       "order": "186",
       "juz": "10",
       "juzorder": "6",
-      "page": "186. Sayfa"
-    },
+      "page": "186. Sayfa",
     "id": "1566ef35-48cf-4686-afa9-aefb4ebdf5ba"
   },
   {
-    "fields": {
+
       "order": "187",
       "juz": "10",
       "juzorder": "7",
-      "page": "187. Sayfa"
-    },
+      "page": "187. Sayfa",
     "id": "ea7d3e7e-43d2-47dd-b3e9-cb7c494949fe"
   },
   {
-    "fields": {
+
       "order": "188",
       "juz": "10",
       "juzorder": "8",
-      "page": "188. Sayfa"
-    },
+      "page": "188. Sayfa",
     "id": "703d53d3-69a1-42f3-968b-1a0163bffec7"
   },
   {
-    "fields": {
+
       "order": "189",
       "juz": "10",
       "juzorder": "9",
-      "page": "189. Sayfa"
-    },
+      "page": "189. Sayfa",
     "id": "76ee01e8-220c-4c68-9b35-12733dacb2ce"
   },
   {
-    "fields": {
+
       "order": "190",
       "juz": "10",
       "juzorder": "10",
-      "page": "190. Sayfa"
-    },
+      "page": "190. Sayfa",
     "id": "ff455902-2127-4d20-8624-6c3f6efc00f4"
   },
   {
-    "fields": {
+
       "order": "191",
       "juz": "10",
       "juzorder": "11",
-      "page": "191. Sayfa"
-    },
+      "page": "191. Sayfa",
     "id": "9163798a-274d-4462-8bef-8c57a239062d"
   },
   {
-    "fields": {
+
       "order": "192",
       "juz": "10",
       "juzorder": "12",
-      "page": "192. Sayfa"
-    },
+      "page": "192. Sayfa",
     "id": "c8969703-37c8-4d00-acc0-454783f29e4d"
   },
   {
-    "fields": {
+
       "order": "193",
       "juz": "10",
       "juzorder": "13",
-      "page": "193. Sayfa"
-    },
+      "page": "193. Sayfa",
     "id": "7aca9421-1e69-470c-9bbe-8154e8d79fe3"
   },
   {
-    "fields": {
+
       "order": "194",
       "juz": "10",
       "juzorder": "14",
-      "page": "194. Sayfa"
-    },
+      "page": "194. Sayfa",
     "id": "f41d6fb2-b3ac-47a6-a98e-688b66fd4bcd"
   },
   {
-    "fields": {
+
       "order": "195",
       "juz": "10",
       "juzorder": "15",
-      "page": "195. Sayfa"
-    },
+      "page": "195. Sayfa",
     "id": "bd25b002-41b6-472f-b738-a07cf5ca11b7"
   },
   {
-    "fields": {
+
       "order": "196",
       "juz": "10",
       "juzorder": "16",
-      "page": "196. Sayfa"
-    },
+      "page": "196. Sayfa",
     "id": "a45b4b5e-225e-4dbd-87bd-3ec70a88c75e"
   },
   {
-    "fields": {
+
       "order": "197",
       "juz": "10",
       "juzorder": "17",
-      "page": "197. Sayfa"
-    },
+      "page": "197. Sayfa",
     "id": "fd3bc879-02de-48e8-8e25-cb68378bd39b"
   },
   {
-    "fields": {
+
       "order": "198",
       "juz": "10",
       "juzorder": "18",
-      "page": "198. Sayfa"
-    },
+      "page": "198. Sayfa",
     "id": "b2a6ebf0-afec-4dbe-953a-74e7462bc81c"
   },
   {
-    "fields": {
+
       "order": "199",
       "juz": "10",
       "juzorder": "19",
-      "page": "199. Sayfa"
-    },
+      "page": "199. Sayfa",
     "id": "622142cd-9a0f-454c-bf7f-3151f4361318"
   },
   {
-    "fields": {
+
       "order": "200",
       "juz": "10",
       "juzorder": "20",
-      "page": "200. Sayfa"
-    },
+      "page": "200. Sayfa",
     "id": "66b41a7f-3ce9-4046-b29b-32e5de7c9210"
   },
   {
-    "fields": {
+
       "order": "201",
       "juz": "11",
       "juzorder": "1",
-      "page": "201. Sayfa"
-    },
+      "page": "201. Sayfa",
     "id": "29b3be36-1e24-4d14-8b95-70382c620985"
   },
   {
-    "fields": {
+
       "order": "202",
       "juz": "11",
       "juzorder": "2",
-      "page": "202. Sayfa"
-    },
+      "page": "202. Sayfa",
     "id": "d47c68b0-6cdd-4a45-b3f9-d2cc52100111"
   },
   {
-    "fields": {
+
       "order": "203",
       "juz": "11",
       "juzorder": "3",
-      "page": "203. Sayfa"
-    },
+      "page": "203. Sayfa",
     "id": "31f3d728-5193-4af3-8cd7-91a3c81fdd1b"
   },
   {
-    "fields": {
+
       "order": "204",
       "juz": "11",
       "juzorder": "4",
-      "page": "204. Sayfa"
-    },
+      "page": "204. Sayfa",
     "id": "cffb4b9a-6bff-4d08-9a7c-4ff0bad06b5e"
   },
   {
-    "fields": {
+
       "order": "205",
       "juz": "11",
       "juzorder": "5",
-      "page": "205. Sayfa"
-    },
+      "page": "205. Sayfa",
     "id": "85f2f61f-0a26-4a8d-b128-df849e787812"
   },
   {
-    "fields": {
+
       "order": "206",
       "juz": "11",
       "juzorder": "6",
-      "page": "206. Sayfa"
-    },
+      "page": "206. Sayfa",
     "id": "bee10d35-7103-455f-b322-ac20ce884c4e"
   },
   {
-    "fields": {
+
       "order": "207",
       "juz": "11",
       "juzorder": "7",
-      "page": "207. Sayfa"
-    },
+      "page": "207. Sayfa",
     "id": "ed1ba638-14d2-4991-9760-e29c1fd55063"
   },
   {
-    "fields": {
+
       "order": "208",
       "juz": "11",
       "juzorder": "8",
-      "page": "208. Sayfa"
-    },
+      "page": "208. Sayfa",
     "id": "4734ea4b-b022-45cd-a43c-8f6bb5650e44"
   },
   {
-    "fields": {
+
       "order": "209",
       "juz": "11",
       "juzorder": "9",
-      "page": "209. Sayfa"
-    },
+      "page": "209. Sayfa",
     "id": "2f5d5ba7-1d7d-45a5-b4fe-05be41636381"
   },
   {
-    "fields": {
+
       "order": "210",
       "juz": "11",
       "juzorder": "10",
-      "page": "210. Sayfa"
-    },
+      "page": "210. Sayfa",
     "id": "b9e1cc78-4355-469b-99a9-721587271b56"
   },
   {
-    "fields": {
+
       "order": "211",
       "juz": "11",
       "juzorder": "11",
-      "page": "211. Sayfa"
-    },
+      "page": "211. Sayfa",
     "id": "740eb180-7a40-4ac6-87f3-854af57ff6c9"
   },
   {
-    "fields": {
+
       "order": "212",
       "juz": "11",
       "juzorder": "12",
-      "page": "212. Sayfa"
-    },
+      "page": "212. Sayfa",
     "id": "f0477b8b-6291-4009-80bc-88a67030d772"
   },
   {
-    "fields": {
+
       "order": "213",
       "juz": "11",
       "juzorder": "13",
-      "page": "213. Sayfa"
-    },
+      "page": "213. Sayfa",
     "id": "dae4be59-d5f8-495d-92ca-84cafdf0b31d"
   },
   {
-    "fields": {
+
       "order": "214",
       "juz": "11",
       "juzorder": "14",
-      "page": "214. Sayfa"
-    },
+      "page": "214. Sayfa",
     "id": "bbec062e-420f-49fa-bfba-6e14a4cb0419"
   },
   {
-    "fields": {
+
       "order": "215",
       "juz": "11",
       "juzorder": "15",
-      "page": "215. Sayfa"
-    },
+      "page": "215. Sayfa",
     "id": "b5acd0ea-1f5d-4d87-bcfd-a586ed05bf33"
   },
   {
-    "fields": {
+
       "order": "216",
       "juz": "11",
       "juzorder": "16",
-      "page": "216. Sayfa"
-    },
+      "page": "216. Sayfa",
     "id": "27058b12-a614-45bd-83f4-bd80bda59495"
   },
   {
-    "fields": {
+
       "order": "217",
       "juz": "11",
       "juzorder": "17",
-      "page": "217. Sayfa"
-    },
+      "page": "217. Sayfa",
     "id": "3eaa9aee-a440-4ea0-83da-e6032fea6810"
   },
   {
-    "fields": {
+
       "order": "218",
       "juz": "11",
       "juzorder": "18",
-      "page": "218. Sayfa"
-    },
+      "page": "218. Sayfa",
     "id": "18c928f6-32f1-44c9-ac3d-30f18a47062f"
   },
   {
-    "fields": {
+
       "order": "219",
       "juz": "11",
       "juzorder": "19",
-      "page": "219. Sayfa"
-    },
+      "page": "219. Sayfa",
     "id": "c92d453f-f718-44b6-8b5d-e209840e8d22"
   },
   {
-    "fields": {
+
       "order": "220",
       "juz": "11",
       "juzorder": "20",
-      "page": "220. Sayfa"
-    },
+      "page": "220. Sayfa",
     "id": "f9aa7632-d11c-4612-bef2-a6e5f967b247"
   },
   {
-    "fields": {
+
       "order": "221",
       "juz": "12",
       "juzorder": "1",
-      "page": "221. Sayfa"
-    },
+      "page": "221. Sayfa",
     "id": "85423d00-619f-4a2a-951c-c75eee212911"
   },
   {
-    "fields": {
+
       "order": "222",
       "juz": "12",
       "juzorder": "2",
-      "page": "222. Sayfa"
-    },
+      "page": "222. Sayfa",
     "id": "ab564b34-4148-469a-87fe-c192f0009a13"
   },
   {
-    "fields": {
+
       "order": "223",
       "juz": "12",
       "juzorder": "3",
-      "page": "223. Sayfa"
-    },
+      "page": "223. Sayfa",
     "id": "29a5b1eb-9260-47a6-9ad9-9466169e2a05"
   },
   {
-    "fields": {
+
       "order": "224",
       "juz": "12",
       "juzorder": "4",
-      "page": "224. Sayfa"
-    },
+      "page": "224. Sayfa",
     "id": "118e5a9b-b6eb-4403-89ba-0ccadd0727c8"
   },
   {
-    "fields": {
+
       "order": "225",
       "juz": "12",
       "juzorder": "5",
-      "page": "225. Sayfa"
-    },
+      "page": "225. Sayfa",
     "id": "74bc3453-1dbe-4d1b-88eb-568c4cd1b741"
   },
   {
-    "fields": {
+
       "order": "226",
       "juz": "12",
       "juzorder": "6",
-      "page": "226. Sayfa"
-    },
+      "page": "226. Sayfa",
     "id": "57f2dd64-a23d-4472-911b-595f2d8a812c"
   },
   {
-    "fields": {
+
       "order": "227",
       "juz": "12",
       "juzorder": "7",
-      "page": "227. Sayfa"
-    },
+      "page": "227. Sayfa",
     "id": "7013c7d1-0ba9-4671-bb3e-fdcd1e61be57"
   },
   {
-    "fields": {
+
       "order": "228",
       "juz": "12",
       "juzorder": "8",
-      "page": "228. Sayfa"
-    },
+      "page": "228. Sayfa",
     "id": "7d5b80d8-689f-4f43-9094-c4948ca506a0"
   },
   {
-    "fields": {
+
       "order": "229",
       "juz": "12",
       "juzorder": "9",
-      "page": "229. Sayfa"
-    },
+      "page": "229. Sayfa",
     "id": "d99233fd-6f6b-4884-9b07-91f680390216"
   },
   {
-    "fields": {
+
       "order": "230",
       "juz": "12",
       "juzorder": "10",
-      "page": "230. Sayfa"
-    },
+      "page": "230. Sayfa",
     "id": "9856f564-efaa-4d37-b187-f5fce83971e1"
   },
   {
-    "fields": {
+
       "order": "231",
       "juz": "12",
       "juzorder": "11",
-      "page": "231. Sayfa"
-    },
+      "page": "231. Sayfa",
     "id": "0888843f-1cae-439a-887b-4b27f08ef143"
   },
   {
-    "fields": {
+
       "order": "232",
       "juz": "12",
       "juzorder": "12",
-      "page": "232. Sayfa"
-    },
+      "page": "232. Sayfa",
     "id": "e057578e-6129-45fc-82ed-095e1c1b2c74"
   },
   {
-    "fields": {
+
       "order": "233",
       "juz": "12",
       "juzorder": "13",
-      "page": "233. Sayfa"
-    },
+      "page": "233. Sayfa",
     "id": "15333092-1307-42a3-baed-e67320b6d9af"
   },
   {
-    "fields": {
+
       "order": "234",
       "juz": "12",
       "juzorder": "14",
-      "page": "234. Sayfa"
-    },
+      "page": "234. Sayfa",
     "id": "393114c8-d9e4-40df-836b-514477e1cb7f"
   },
   {
-    "fields": {
+
       "order": "235",
       "juz": "12",
       "juzorder": "15",
-      "page": "235. Sayfa"
-    },
+      "page": "235. Sayfa",
     "id": "9ac536fb-3161-4633-9543-c07d4a65f3db"
   },
   {
-    "fields": {
+
       "order": "236",
       "juz": "12",
       "juzorder": "16",
-      "page": "236. Sayfa"
-    },
+      "page": "236. Sayfa",
     "id": "1fa90265-0acf-48d2-9786-6341b8cd23af"
   },
   {
-    "fields": {
+
       "order": "237",
       "juz": "12",
       "juzorder": "17",
-      "page": "237. Sayfa"
-    },
+      "page": "237. Sayfa",
     "id": "9dd2ffc3-f36a-49fd-a44f-39a2df9852c3"
   },
   {
-    "fields": {
+
       "order": "238",
       "juz": "12",
       "juzorder": "18",
-      "page": "238. Sayfa"
-    },
+      "page": "238. Sayfa",
     "id": "e969ace3-ee94-44a7-9ddf-9f39443276eb"
   },
   {
-    "fields": {
+
       "order": "239",
       "juz": "12",
       "juzorder": "19",
-      "page": "239. Sayfa"
-    },
+      "page": "239. Sayfa",
     "id": "cb7f2367-1b12-4051-be31-aafdcc1219c6"
   },
   {
-    "fields": {
+
       "order": "240",
       "juz": "12",
       "juzorder": "20",
-      "page": "240. Sayfa"
-    },
+      "page": "240. Sayfa",
     "id": "f8589585-9ccb-4c65-b750-88ba0a3dfdfe"
   },
   {
-    "fields": {
+
       "order": "241",
       "juz": "13",
       "juzorder": "1",
-      "page": "241. Sayfa"
-    },
+      "page": "241. Sayfa",
     "id": "b9b648ba-f1a6-4cb3-b3bc-6ceb56880add"
   },
   {
-    "fields": {
+
       "order": "242",
       "juz": "13",
       "juzorder": "2",
-      "page": "242. Sayfa"
-    },
+      "page": "242. Sayfa",
     "id": "60413777-ee27-40fc-92ab-5d0a6c1f55a9"
   },
   {
-    "fields": {
+
       "order": "243",
       "juz": "13",
       "juzorder": "3",
-      "page": "243. Sayfa"
-    },
+      "page": "243. Sayfa",
     "id": "fa2f194e-b527-4a57-86e6-62751da7ce89"
   },
   {
-    "fields": {
+
       "order": "244",
       "juz": "13",
       "juzorder": "4",
-      "page": "244. Sayfa"
-    },
+      "page": "244. Sayfa",
     "id": "940f669b-e3d6-4662-a8d5-8eecb7dd029a"
   },
   {
-    "fields": {
+
       "order": "245",
       "juz": "13",
       "juzorder": "5",
-      "page": "245. Sayfa"
-    },
+      "page": "245. Sayfa",
     "id": "735bfc5a-9d2a-41db-b5d4-15b34ad0758a"
   },
   {
-    "fields": {
+
       "order": "246",
       "juz": "13",
       "juzorder": "6",
-      "page": "246. Sayfa"
-    },
+      "page": "246. Sayfa",
     "id": "373e8311-1de7-44a2-9735-32da777f0672"
   },
   {
-    "fields": {
+
       "order": "247",
       "juz": "13",
       "juzorder": "7",
-      "page": "247. Sayfa"
-    },
+      "page": "247. Sayfa",
     "id": "38dedfca-a46b-4ee5-a8f0-0d2778a634d1"
   },
   {
-    "fields": {
+
       "order": "248",
       "juz": "13",
       "juzorder": "8",
-      "page": "248. Sayfa"
-    },
+      "page": "248. Sayfa",
     "id": "453ea53e-0ad4-460a-8bbf-391eea68584a"
   },
   {
-    "fields": {
+
       "order": "249",
       "juz": "13",
       "juzorder": "9",
-      "page": "249. Sayfa"
-    },
+      "page": "249. Sayfa",
     "id": "6aa473b4-a924-4957-9c75-7db62d6747a7"
   },
   {
-    "fields": {
+
       "order": "250",
       "juz": "13",
       "juzorder": "10",
-      "page": "250. Sayfa"
-    },
+      "page": "250. Sayfa",
     "id": "b3027e87-9102-472e-88f7-fd4df023d641"
   },
   {
-    "fields": {
+
       "order": "251",
       "juz": "13",
       "juzorder": "11",
-      "page": "251. Sayfa"
-    },
+      "page": "251. Sayfa",
     "id": "d391aae3-166a-4c5e-979f-af37c7eb3a1f"
   },
   {
-    "fields": {
+
       "order": "252",
       "juz": "13",
       "juzorder": "12",
-      "page": "252. Sayfa"
-    },
+      "page": "252. Sayfa",
     "id": "f66b5292-05f3-45c0-8514-c660176522a9"
   },
   {
-    "fields": {
+
       "order": "253",
       "juz": "13",
       "juzorder": "13",
-      "page": "253. Sayfa"
-    },
+      "page": "253. Sayfa",
     "id": "d8e986aa-1b99-407c-bb58-092b102f119d"
   },
   {
-    "fields": {
+
       "order": "254",
       "juz": "13",
       "juzorder": "14",
-      "page": "254. Sayfa"
-    },
+      "page": "254. Sayfa",
     "id": "484c5345-65f7-478f-ad7e-b081a1efc403"
   },
   {
-    "fields": {
+
       "order": "255",
       "juz": "13",
       "juzorder": "15",
-      "page": "255. Sayfa"
-    },
+      "page": "255. Sayfa",
     "id": "479abdc9-7f41-4b08-bc87-eb9ffbd9c3ab"
   },
   {
-    "fields": {
+
       "order": "256",
       "juz": "13",
       "juzorder": "16",
-      "page": "256. Sayfa"
-    },
+      "page": "256. Sayfa",
     "id": "0da141e6-b27e-4218-b0bb-9f25e9a548c0"
   },
   {
-    "fields": {
+
       "order": "257",
       "juz": "13",
       "juzorder": "17",
-      "page": "257. Sayfa"
-    },
+      "page": "257. Sayfa",
     "id": "cbfd9153-4ecd-4b0f-9602-9e527ad22406"
   },
   {
-    "fields": {
+
       "order": "258",
       "juz": "13",
       "juzorder": "18",
-      "page": "258. Sayfa"
-    },
+      "page": "258. Sayfa",
     "id": "3ac1475d-a7db-4b09-845b-4330333fc3a8"
   },
   {
-    "fields": {
+
       "order": "259",
       "juz": "13",
       "juzorder": "19",
-      "page": "259. Sayfa"
-    },
+      "page": "259. Sayfa",
     "id": "408a1606-f9d5-435b-a252-b1ffc6f7a7e4"
   },
   {
-    "fields": {
+
       "order": "260",
       "juz": "13",
       "juzorder": "20",
-      "page": "260. Sayfa"
-    },
+      "page": "260. Sayfa",
     "id": "aa98b234-2ed0-4ff7-843b-d2057c8ff142"
   },
   {
-    "fields": {
+
       "order": "261",
       "juz": "14",
       "juzorder": "1",
-      "page": "261. Sayfa"
-    },
+      "page": "261. Sayfa",
     "id": "648d9b87-b931-4e5f-99aa-d05a54863741"
   },
   {
-    "fields": {
+
       "order": "262",
       "juz": "14",
       "juzorder": "2",
-      "page": "262. Sayfa"
-    },
+      "page": "262. Sayfa",
     "id": "cc7f624a-d375-4096-aafb-6d12e40b874c"
   },
   {
-    "fields": {
+
       "order": "263",
       "juz": "14",
       "juzorder": "3",
-      "page": "263. Sayfa"
-    },
+      "page": "263. Sayfa",
     "id": "edd2d9c1-b749-45cd-bcd6-477b6c954e31"
   },
   {
-    "fields": {
+
       "order": "264",
       "juz": "14",
       "juzorder": "4",
-      "page": "264. Sayfa"
-    },
+      "page": "264. Sayfa",
     "id": "06c661cd-c89f-4f18-9aa8-61f9384b8729"
   },
   {
-    "fields": {
+
       "order": "265",
       "juz": "14",
       "juzorder": "5",
-      "page": "265. Sayfa"
-    },
+      "page": "265. Sayfa",
     "id": "7ad52a87-d175-4a0b-8649-34a4b66c0fb0"
   },
   {
-    "fields": {
+
       "order": "266",
       "juz": "14",
       "juzorder": "6",
-      "page": "266. Sayfa"
-    },
+      "page": "266. Sayfa",
     "id": "e9c2ffee-7aaf-48d3-b968-88c938297563"
   },
   {
-    "fields": {
+
       "order": "267",
       "juz": "14",
       "juzorder": "7",
-      "page": "267. Sayfa"
-    },
+      "page": "267. Sayfa",
     "id": "ef480c84-e1da-4aa9-ba07-d14c026a6d07"
   },
   {
-    "fields": {
+
       "order": "268",
       "juz": "14",
       "juzorder": "8",
-      "page": "268. Sayfa"
-    },
+      "page": "268. Sayfa",
     "id": "59cd7e56-8430-4eb4-a0b2-ddd5e8e4a4a6"
   },
   {
-    "fields": {
+
       "order": "269",
       "juz": "14",
       "juzorder": "9",
-      "page": "269. Sayfa"
-    },
+      "page": "269. Sayfa",
     "id": "a8b7c16c-60a4-4ff1-820e-57bdc497afa4"
   },
   {
-    "fields": {
+
       "order": "270",
       "juz": "14",
       "juzorder": "10",
-      "page": "270. Sayfa"
-    },
+      "page": "270. Sayfa",
     "id": "3b475cdc-3915-4557-b927-0d99a80ec663"
   },
   {
-    "fields": {
+
       "order": "271",
       "juz": "14",
       "juzorder": "11",
-      "page": "271. Sayfa"
-    },
+      "page": "271. Sayfa",
     "id": "d3b6f411-d2ee-47d5-980b-83b63dabdea2"
   },
   {
-    "fields": {
+
       "order": "272",
       "juz": "14",
       "juzorder": "12",
-      "page": "272. Sayfa"
-    },
+      "page": "272. Sayfa",
     "id": "d5fffeb8-bd00-4063-b4ef-1afad8a65ec0"
   },
   {
-    "fields": {
+
       "order": "273",
       "juz": "14",
       "juzorder": "13",
-      "page": "273. Sayfa"
-    },
+      "page": "273. Sayfa",
     "id": "48b72cd1-c1fb-47c3-90bc-0878f0f6bb02"
   },
   {
-    "fields": {
+
       "order": "274",
       "juz": "14",
       "juzorder": "14",
-      "page": "274. Sayfa"
-    },
+      "page": "274. Sayfa",
     "id": "e3a870a0-2fa3-42c3-8281-70ae52cfd07c"
   },
   {
-    "fields": {
+
       "order": "275",
       "juz": "14",
       "juzorder": "15",
-      "page": "275. Sayfa"
-    },
+      "page": "275. Sayfa",
     "id": "e84a496f-f4a7-459f-bed9-6f2598e1e4e1"
   },
   {
-    "fields": {
+
       "order": "276",
       "juz": "14",
       "juzorder": "16",
-      "page": "276. Sayfa"
-    },
+      "page": "276. Sayfa",
     "id": "2c09d3f8-2809-4df9-9dbf-87dbac238854"
   },
   {
-    "fields": {
+
       "order": "277",
       "juz": "14",
       "juzorder": "17",
-      "page": "277. Sayfa"
-    },
+      "page": "277. Sayfa",
     "id": "6817f140-0a07-4e74-9359-375ad768e21f"
   },
   {
-    "fields": {
+
       "order": "278",
       "juz": "14",
       "juzorder": "18",
-      "page": "278. Sayfa"
-    },
+      "page": "278. Sayfa",
     "id": "2c83ef74-dee5-4433-84a9-168c90ddc768"
   },
   {
-    "fields": {
+
       "order": "279",
       "juz": "14",
       "juzorder": "19",
-      "page": "279. Sayfa"
-    },
+      "page": "279. Sayfa",
     "id": "7d691d48-1d92-470a-9050-1a68cb12c641"
   },
   {
-    "fields": {
+
       "order": "280",
       "juz": "14",
       "juzorder": "20",
-      "page": "280. Sayfa"
-    },
+      "page": "280. Sayfa",
     "id": "0564549f-66ad-47ac-8c63-dfa90b069609"
   },
   {
-    "fields": {
+
       "order": "281",
       "juz": "15",
       "juzorder": "1",
-      "page": "281. Sayfa"
-    },
+      "page": "281. Sayfa",
     "id": "c63f4ad8-84ef-4565-9152-511897cdf20d"
   },
   {
-    "fields": {
+
       "order": "282",
       "juz": "15",
       "juzorder": "2",
-      "page": "282. Sayfa"
-    },
+      "page": "282. Sayfa",
     "id": "8facf0a3-632c-4cff-81aa-04080e638677"
   },
   {
-    "fields": {
+
       "order": "283",
       "juz": "15",
       "juzorder": "3",
-      "page": "283. Sayfa"
-    },
+      "page": "283. Sayfa",
     "id": "8ba12899-545b-4e35-9a50-feebddf2f89a"
   },
   {
-    "fields": {
+
       "order": "284",
       "juz": "15",
       "juzorder": "4",
-      "page": "284. Sayfa"
-    },
+      "page": "284. Sayfa",
     "id": "be128a82-9984-4905-9650-7a5666781834"
   },
   {
-    "fields": {
+
       "order": "285",
       "juz": "15",
       "juzorder": "5",
-      "page": "285. Sayfa"
-    },
+      "page": "285. Sayfa",
     "id": "4672d05e-a992-429a-af58-a79a2f15e2b5"
   },
   {
-    "fields": {
+
       "order": "286",
       "juz": "15",
       "juzorder": "6",
-      "page": "286. Sayfa"
-    },
+      "page": "286. Sayfa",
     "id": "d73fc552-ea5c-4eec-ac0d-4ed3cf87f66e"
   },
   {
-    "fields": {
+
       "order": "287",
       "juz": "15",
       "juzorder": "7",
-      "page": "287. Sayfa"
-    },
+      "page": "287. Sayfa",
     "id": "880ec3c7-a900-4a78-89b9-6a4a043ed18b"
   },
   {
-    "fields": {
+
       "order": "288",
       "juz": "15",
       "juzorder": "8",
-      "page": "288. Sayfa"
-    },
+      "page": "288. Sayfa",
     "id": "116e6874-667a-4400-b703-bbf5c26b1bfd"
   },
   {
-    "fields": {
+
       "order": "289",
       "juz": "15",
       "juzorder": "9",
-      "page": "289. Sayfa"
-    },
+      "page": "289. Sayfa",
     "id": "ed1f403e-def4-40a0-a919-db783ba70ccb"
   },
   {
-    "fields": {
+
       "order": "290",
       "juz": "15",
       "juzorder": "10",
-      "page": "290. Sayfa"
-    },
+      "page": "290. Sayfa",
     "id": "bb867f64-23e6-43ad-b884-1b3ab5b646e6"
   },
   {
-    "fields": {
+
       "order": "291",
       "juz": "15",
       "juzorder": "11",
-      "page": "291. Sayfa"
-    },
+      "page": "291. Sayfa",
     "id": "f19ee5cf-6bc6-41a5-aa7a-0a479cc68bdb"
   },
   {
-    "fields": {
+
       "order": "292",
       "juz": "15",
       "juzorder": "12",
-      "page": "292. Sayfa"
-    },
+      "page": "292. Sayfa",
     "id": "e16bb35d-f5e9-456c-92e4-0a7a378a7c92"
   },
   {
-    "fields": {
+
       "order": "293",
       "juz": "15",
       "juzorder": "13",
-      "page": "293. Sayfa"
-    },
+      "page": "293. Sayfa",
     "id": "57f597c3-0f9d-4ed9-9962-e3d85628f89d"
   },
   {
-    "fields": {
+
       "order": "294",
       "juz": "15",
       "juzorder": "14",
-      "page": "294. Sayfa"
-    },
+      "page": "294. Sayfa",
     "id": "3cb0db64-ec55-456c-b124-2bafc0e73f5d"
   },
   {
-    "fields": {
+
       "order": "295",
       "juz": "15",
       "juzorder": "15",
-      "page": "295. Sayfa"
-    },
+      "page": "295. Sayfa",
     "id": "acbe8cb2-26d5-4061-aff5-0cfa6b7f7b0e"
   },
   {
-    "fields": {
+
       "order": "296",
       "juz": "15",
       "juzorder": "16",
-      "page": "296. Sayfa"
-    },
+      "page": "296. Sayfa",
     "id": "a88503ac-3d22-4aa0-9971-9a741a8b3662"
   },
   {
-    "fields": {
+
       "order": "297",
       "juz": "15",
       "juzorder": "17",
-      "page": "297. Sayfa"
-    },
+      "page": "297. Sayfa",
     "id": "5bebdf96-57c9-451e-875f-c0ae39a0cab6"
   },
   {
-    "fields": {
+
       "order": "298",
       "juz": "15",
       "juzorder": "18",
-      "page": "298. Sayfa"
-    },
+      "page": "298. Sayfa",
     "id": "c23b4dd4-f586-49fe-a1ee-f9e21412027b"
   },
   {
-    "fields": {
+
       "order": "299",
       "juz": "15",
       "juzorder": "19",
-      "page": "299. Sayfa"
-    },
+      "page": "299. Sayfa",
     "id": "65e70bb3-7464-4e84-aca9-b6779cf3eb86"
   },
   {
-    "fields": {
+
       "order": "300",
       "juz": "15",
       "juzorder": "20",
-      "page": "300. Sayfa"
-    },
+      "page": "300. Sayfa",
     "id": "e2b8ca00-4942-41a8-b957-33f2870b9c1e"
   },
   {
-    "fields": {
+
       "order": "301",
       "juz": "16",
       "juzorder": "1",
-      "page": "301. Sayfa"
-    },
+      "page": "301. Sayfa",
     "id": "57ca3df8-2096-4ad8-91cf-ad61d900c617"
   },
   {
-    "fields": {
+
       "order": "302",
       "juz": "16",
       "juzorder": "2",
-      "page": "302. Sayfa"
-    },
+      "page": "302. Sayfa",
     "id": "130314fc-6633-4d5a-a430-03db57c3076f"
   },
   {
-    "fields": {
+
       "order": "303",
       "juz": "16",
       "juzorder": "3",
-      "page": "303. Sayfa"
-    },
+      "page": "303. Sayfa",
     "id": "908fbd93-7cfa-40ff-bab4-94a2ccc680f0"
   },
   {
-    "fields": {
+
       "order": "304",
       "juz": "16",
       "juzorder": "4",
-      "page": "304. Sayfa"
-    },
+      "page": "304. Sayfa",
     "id": "75a68f82-6f2a-4b5b-beaa-697200d0e2ea"
   },
   {
-    "fields": {
+
       "order": "305",
       "juz": "16",
       "juzorder": "5",
-      "page": "305. Sayfa"
-    },
+      "page": "305. Sayfa",
     "id": "30901723-32f1-49aa-8c6c-eab7339e78f7"
   },
   {
-    "fields": {
+
       "order": "306",
       "juz": "16",
       "juzorder": "6",
-      "page": "306. Sayfa"
-    },
+      "page": "306. Sayfa",
     "id": "d215a963-dfbd-465f-9236-1340068764d9"
   },
   {
-    "fields": {
+
       "order": "307",
       "juz": "16",
       "juzorder": "7",
-      "page": "307. Sayfa"
-    },
+      "page": "307. Sayfa",
     "id": "8c802984-beda-4a49-894b-5c044dcb7181"
   },
   {
-    "fields": {
+
       "order": "308",
       "juz": "16",
       "juzorder": "8",
-      "page": "308. Sayfa"
-    },
+      "page": "308. Sayfa",
     "id": "904b774b-0daf-4fca-8e5f-031d6618f460"
   },
   {
-    "fields": {
+
       "order": "309",
       "juz": "16",
       "juzorder": "9",
-      "page": "309. Sayfa"
-    },
+      "page": "309. Sayfa",
     "id": "8a922c8c-ee1e-4b90-b1c8-adb8dca97055"
   },
   {
-    "fields": {
+
       "order": "310",
       "juz": "16",
       "juzorder": "10",
-      "page": "310. Sayfa"
-    },
+      "page": "310. Sayfa",
     "id": "448a4951-00b4-4062-afb3-7343443773cf"
   },
   {
-    "fields": {
+
       "order": "311",
       "juz": "16",
       "juzorder": "11",
-      "page": "311. Sayfa"
-    },
+      "page": "311. Sayfa",
     "id": "804179e6-e8d4-48ad-b36a-e98163c2530b"
   },
   {
-    "fields": {
+
       "order": "312",
       "juz": "16",
       "juzorder": "12",
-      "page": "312. Sayfa"
-    },
+      "page": "312. Sayfa",
     "id": "c6e6d924-c8fe-4eb7-bdec-f3458d7212e4"
   },
   {
-    "fields": {
+
       "order": "313",
       "juz": "16",
       "juzorder": "13",
-      "page": "313. Sayfa"
-    },
+      "page": "313. Sayfa",
     "id": "ff8dec09-2d0b-4f39-9216-caf8be790207"
   },
   {
-    "fields": {
+
       "order": "314",
       "juz": "16",
       "juzorder": "14",
-      "page": "314. Sayfa"
-    },
+      "page": "314. Sayfa",
     "id": "195d2391-00ac-4e05-b65f-350b842691f9"
   },
   {
-    "fields": {
+
       "order": "315",
       "juz": "16",
       "juzorder": "15",
-      "page": "315. Sayfa"
-    },
+      "page": "315. Sayfa",
     "id": "f0e5e16a-9236-4f83-a988-8311e5dcf192"
   },
   {
-    "fields": {
+
       "order": "316",
       "juz": "16",
       "juzorder": "16",
-      "page": "316. Sayfa"
-    },
+      "page": "316. Sayfa",
     "id": "36041ced-34be-4801-879a-ff3cc6ee399e"
   },
   {
-    "fields": {
+
       "order": "317",
       "juz": "16",
       "juzorder": "17",
-      "page": "317. Sayfa"
-    },
+      "page": "317. Sayfa",
     "id": "b6b81c4a-56d1-4947-b3c9-8f91b029c2ff"
   },
   {
-    "fields": {
+
       "order": "318",
       "juz": "16",
       "juzorder": "18",
-      "page": "318. Sayfa"
-    },
+      "page": "318. Sayfa",
     "id": "be469502-9016-47fa-9592-814cf38e35fb"
   },
   {
-    "fields": {
+
       "order": "319",
       "juz": "16",
       "juzorder": "19",
-      "page": "319. Sayfa"
-    },
+      "page": "319. Sayfa",
     "id": "793206bc-aa3a-4b55-8231-0dca0c57c2a3"
   },
   {
-    "fields": {
+
       "order": "320",
       "juz": "16",
       "juzorder": "20",
-      "page": "320. Sayfa"
-    },
+      "page": "320. Sayfa",
     "id": "8713bfee-9a10-48a6-974c-2c6ff1116224"
   },
   {
-    "fields": {
+
       "order": "321",
       "juz": "17",
       "juzorder": "1",
-      "page": "321. Sayfa"
-    },
+      "page": "321. Sayfa",
     "id": "3151d60b-2e83-4b3d-b9c8-43b332989b69"
   },
   {
-    "fields": {
+
       "order": "322",
       "juz": "17",
       "juzorder": "2",
-      "page": "322. Sayfa"
-    },
+      "page": "322. Sayfa",
     "id": "d06886b7-f11b-45ec-90b9-aace34cea9de"
   },
   {
-    "fields": {
+
       "order": "323",
       "juz": "17",
       "juzorder": "3",
-      "page": "323. Sayfa"
-    },
+      "page": "323. Sayfa",
     "id": "ad85e64c-ca4b-40f4-8e59-6eb023c860d8"
   },
   {
-    "fields": {
+
       "order": "324",
       "juz": "17",
       "juzorder": "4",
-      "page": "324. Sayfa"
-    },
+      "page": "324. Sayfa",
     "id": "7465d2e6-6253-487c-b3db-a52e886dfb7d"
   },
   {
-    "fields": {
+
       "order": "325",
       "juz": "17",
       "juzorder": "5",
-      "page": "325. Sayfa"
-    },
+      "page": "325. Sayfa",
     "id": "ebd3e9e9-147d-47cb-bf7a-845e9edbf542"
   },
   {
-    "fields": {
+
       "order": "326",
       "juz": "17",
       "juzorder": "6",
-      "page": "326. Sayfa"
-    },
+      "page": "326. Sayfa",
     "id": "4b0e90a1-b384-4ebb-a241-dff92ea629a8"
   },
   {
-    "fields": {
+
       "order": "327",
       "juz": "17",
       "juzorder": "7",
-      "page": "327. Sayfa"
-    },
+      "page": "327. Sayfa",
     "id": "0c649d56-d2f8-47c9-a93c-d901e24016de"
   },
   {
-    "fields": {
+
       "order": "328",
       "juz": "17",
       "juzorder": "8",
-      "page": "328. Sayfa"
-    },
+      "page": "328. Sayfa",
     "id": "d08f5eb3-862e-498f-bd3a-414026675adc"
   },
   {
-    "fields": {
+
       "order": "329",
       "juz": "17",
       "juzorder": "9",
-      "page": "329. Sayfa"
-    },
+      "page": "329. Sayfa",
     "id": "9067f258-2fda-4494-b43d-3ac4f5276302"
   },
   {
-    "fields": {
+
       "order": "330",
       "juz": "17",
       "juzorder": "10",
-      "page": "330. Sayfa"
-    },
+      "page": "330. Sayfa",
     "id": "e2e75f2e-5d49-464c-a9c1-6872ce3d66af"
   },
   {
-    "fields": {
+
       "order": "331",
       "juz": "17",
       "juzorder": "11",
-      "page": "331. Sayfa"
-    },
+      "page": "331. Sayfa",
     "id": "a5563f7b-2651-4541-9577-ca0a62429d72"
   },
   {
-    "fields": {
+
       "order": "332",
       "juz": "17",
       "juzorder": "12",
-      "page": "332. Sayfa"
-    },
+      "page": "332. Sayfa",
     "id": "fd9a1e1d-95c5-450f-bed6-2c766d25624a"
   },
   {
-    "fields": {
+
       "order": "333",
       "juz": "17",
       "juzorder": "13",
-      "page": "333. Sayfa"
-    },
+      "page": "333. Sayfa",
     "id": "bbc0d73e-d6bd-407c-a484-e4e734301223"
   },
   {
-    "fields": {
+
       "order": "334",
       "juz": "17",
       "juzorder": "14",
-      "page": "334. Sayfa"
-    },
+      "page": "334. Sayfa",
     "id": "82445c33-0c27-489d-88fa-b8e4089928fe"
   },
   {
-    "fields": {
+
       "order": "335",
       "juz": "17",
       "juzorder": "15",
-      "page": "335. Sayfa"
-    },
+      "page": "335. Sayfa",
     "id": "49a42baf-5104-472f-a2b4-7031106208e5"
   },
   {
-    "fields": {
+
       "order": "336",
       "juz": "17",
       "juzorder": "16",
-      "page": "336. Sayfa"
-    },
+      "page": "336. Sayfa",
     "id": "e668e916-55ef-4279-9b34-fa4e498c5bdd"
   },
   {
-    "fields": {
+
       "order": "337",
       "juz": "17",
       "juzorder": "17",
-      "page": "337. Sayfa"
-    },
+      "page": "337. Sayfa",
     "id": "b935a88c-8aec-4527-9895-203bc4919258"
   },
   {
-    "fields": {
+
       "order": "338",
       "juz": "17",
       "juzorder": "18",
-      "page": "338. Sayfa"
-    },
+      "page": "338. Sayfa",
     "id": "b578f591-a8a0-4b41-82aa-8ffdb365b774"
   },
   {
-    "fields": {
+
       "order": "339",
       "juz": "17",
       "juzorder": "19",
-      "page": "339. Sayfa"
-    },
+      "page": "339. Sayfa",
     "id": "12d18ab5-e442-4f14-8ca5-493b798dd79b"
   },
   {
-    "fields": {
+
       "order": "340",
       "juz": "17",
       "juzorder": "20",
-      "page": "340. Sayfa"
-    },
+      "page": "340. Sayfa",
     "id": "0fd47718-2255-4631-ab09-e4903e0cede2"
   },
   {
-    "fields": {
+
       "order": "341",
       "juz": "18",
       "juzorder": "1",
-      "page": "341. Sayfa"
-    },
+      "page": "341. Sayfa",
     "id": "fbc841fb-100d-4cfd-97a7-3323311eb112"
   },
   {
-    "fields": {
+
       "order": "342",
       "juz": "18",
       "juzorder": "2",
-      "page": "342. Sayfa"
-    },
+      "page": "342. Sayfa",
     "id": "03c7c363-2d77-4cd3-a438-a65b81a737d0"
   },
   {
-    "fields": {
+
       "order": "343",
       "juz": "18",
       "juzorder": "3",
-      "page": "343. Sayfa"
-    },
+      "page": "343. Sayfa",
     "id": "a2655114-773f-4f3f-8a29-702ecbfff079"
   },
   {
-    "fields": {
+
       "order": "344",
       "juz": "18",
       "juzorder": "4",
-      "page": "344. Sayfa"
-    },
+      "page": "344. Sayfa",
     "id": "1aa535e3-4097-415f-80f9-1c9f81d01496"
   },
   {
-    "fields": {
+
       "order": "345",
       "juz": "18",
       "juzorder": "5",
-      "page": "345. Sayfa"
-    },
+      "page": "345. Sayfa",
     "id": "7f3da768-ba7e-4647-adb9-4845a80878fe"
   },
   {
-    "fields": {
+
       "order": "346",
       "juz": "18",
       "juzorder": "6",
-      "page": "346. Sayfa"
-    },
+      "page": "346. Sayfa",
     "id": "3e32a1b4-3ce5-46d8-9d2e-59dd058bc358"
   },
   {
-    "fields": {
+
       "order": "347",
       "juz": "18",
       "juzorder": "7",
-      "page": "347. Sayfa"
-    },
+      "page": "347. Sayfa",
     "id": "a8a47bb0-da06-4abc-bcf4-cabec19d40a2"
   },
   {
-    "fields": {
+
       "order": "348",
       "juz": "18",
       "juzorder": "8",
-      "page": "348. Sayfa"
-    },
+      "page": "348. Sayfa",
     "id": "82200a2d-5273-47b3-91f0-b6af4a80489b"
   },
   {
-    "fields": {
+
       "order": "349",
       "juz": "18",
       "juzorder": "9",
-      "page": "349. Sayfa"
-    },
+      "page": "349. Sayfa",
     "id": "218b2a20-bbc5-44dd-b771-441edffc3cd3"
   },
   {
-    "fields": {
+
       "order": "350",
       "juz": "18",
       "juzorder": "10",
-      "page": "350. Sayfa"
-    },
+      "page": "350. Sayfa",
     "id": "1655b01d-1a14-4115-a789-0932f2c3a517"
   },
   {
-    "fields": {
+
       "order": "351",
       "juz": "18",
       "juzorder": "11",
-      "page": "351. Sayfa"
-    },
+      "page": "351. Sayfa",
     "id": "3581df1d-8d8c-4481-ad0a-c37dc78a2396"
   },
   {
-    "fields": {
+
       "order": "352",
       "juz": "18",
       "juzorder": "12",
-      "page": "352. Sayfa"
-    },
+      "page": "352. Sayfa",
     "id": "343c10fa-edc8-45f2-8036-8e6320c0d208"
   },
   {
-    "fields": {
+
       "order": "353",
       "juz": "18",
       "juzorder": "13",
-      "page": "353. Sayfa"
-    },
+      "page": "353. Sayfa",
     "id": "34e25fc5-b6bc-4c2d-9fd5-5e428844f6f0"
   },
   {
-    "fields": {
+
       "order": "354",
       "juz": "18",
       "juzorder": "14",
-      "page": "354. Sayfa"
-    },
+      "page": "354. Sayfa",
     "id": "aa4f88aa-68ac-4c1d-a375-1413cbb38e39"
   },
   {
-    "fields": {
+
       "order": "355",
       "juz": "18",
       "juzorder": "15",
-      "page": "355. Sayfa"
-    },
+      "page": "355. Sayfa",
     "id": "ea98740d-60d1-441d-94bb-3df023501f69"
   },
   {
-    "fields": {
+
       "order": "356",
       "juz": "18",
       "juzorder": "16",
-      "page": "356. Sayfa"
-    },
+      "page": "356. Sayfa",
     "id": "e456882c-9f82-4bf4-bd55-ebf461d755e8"
   },
   {
-    "fields": {
+
       "order": "357",
       "juz": "18",
       "juzorder": "17",
-      "page": "357. Sayfa"
-    },
+      "page": "357. Sayfa",
     "id": "0aa43b9d-7514-4799-af90-b1ff3bcb718b"
   },
   {
-    "fields": {
+
       "order": "358",
       "juz": "18",
       "juzorder": "18",
-      "page": "358. Sayfa"
-    },
+      "page": "358. Sayfa",
     "id": "38e521a2-7c11-4398-8a9f-a63ddbb2153d"
   },
   {
-    "fields": {
+
       "order": "359",
       "juz": "18",
       "juzorder": "19",
-      "page": "359. Sayfa"
-    },
+      "page": "359. Sayfa",
     "id": "d331a7e9-49f4-432f-ac37-fa32b4f550dd"
   },
   {
-    "fields": {
+
       "order": "360",
       "juz": "18",
       "juzorder": "20",
-      "page": "360. Sayfa"
-    },
+      "page": "360. Sayfa",
     "id": "766b5a6d-f7f5-4866-a593-ddaefcc822c6"
   },
   {
-    "fields": {
+
       "order": "361",
       "juz": "19",
       "juzorder": "1",
-      "page": "361. Sayfa"
-    },
+      "page": "361. Sayfa",
     "id": "0b788046-f962-4410-9178-8d01a2c272b9"
   },
   {
-    "fields": {
+
       "order": "362",
       "juz": "19",
       "juzorder": "2",
-      "page": "362. Sayfa"
-    },
+      "page": "362. Sayfa",
     "id": "4a74a971-8797-4920-aa8d-328c4f84525e"
   },
   {
-    "fields": {
+
       "order": "363",
       "juz": "19",
       "juzorder": "3",
-      "page": "363. Sayfa"
-    },
+      "page": "363. Sayfa",
     "id": "a90b2490-391d-4980-9be8-eb3c9d75f300"
   },
   {
-    "fields": {
+
       "order": "364",
       "juz": "19",
       "juzorder": "4",
-      "page": "364. Sayfa"
-    },
+      "page": "364. Sayfa",
     "id": "861a7da7-4139-4c6b-aead-b0b88dc20504"
   },
   {
-    "fields": {
+
       "order": "365",
       "juz": "19",
       "juzorder": "5",
-      "page": "365. Sayfa"
-    },
+      "page": "365. Sayfa",
     "id": "5c15f87f-a93e-4d87-ad4b-9e774a7487c2"
   },
   {
-    "fields": {
+
       "order": "366",
       "juz": "19",
       "juzorder": "6",
-      "page": "366. Sayfa"
-    },
+      "page": "366. Sayfa",
     "id": "4834b314-b107-4f69-af75-07dade9a259a"
   },
   {
-    "fields": {
+
       "order": "367",
       "juz": "19",
       "juzorder": "7",
-      "page": "367. Sayfa"
-    },
+      "page": "367. Sayfa",
     "id": "4952ed5b-ba05-4d79-aba2-13141220820c"
   },
   {
-    "fields": {
+
       "order": "368",
       "juz": "19",
       "juzorder": "8",
-      "page": "368. Sayfa"
-    },
+      "page": "368. Sayfa",
     "id": "ba44c386-da97-431c-be84-595d2c72e8aa"
   },
   {
-    "fields": {
+
       "order": "369",
       "juz": "19",
       "juzorder": "9",
-      "page": "369. Sayfa"
-    },
+      "page": "369. Sayfa",
     "id": "b9e5161a-c64a-4bc0-ad6e-5adc11934bf4"
   },
   {
-    "fields": {
+
       "order": "370",
       "juz": "19",
       "juzorder": "10",
-      "page": "370. Sayfa"
-    },
+      "page": "370. Sayfa",
     "id": "8caa1f3b-1c87-4850-ad18-98c5fad382ec"
   },
   {
-    "fields": {
+
       "order": "371",
       "juz": "19",
       "juzorder": "11",
-      "page": "371. Sayfa"
-    },
+      "page": "371. Sayfa",
     "id": "d74ae870-4b9c-47ad-9450-cc838b6b30f6"
   },
   {
-    "fields": {
+
       "order": "372",
       "juz": "19",
       "juzorder": "12",
-      "page": "372. Sayfa"
-    },
+      "page": "372. Sayfa",
     "id": "8e000efe-6dc0-4a9d-9feb-3fd290ada3a4"
   },
   {
-    "fields": {
+
       "order": "373",
       "juz": "19",
       "juzorder": "13",
-      "page": "373. Sayfa"
-    },
+      "page": "373. Sayfa",
     "id": "ae2a58c5-59e4-4cfa-8ca8-9c03fd50d873"
   },
   {
-    "fields": {
+
       "order": "374",
       "juz": "19",
       "juzorder": "14",
-      "page": "374. Sayfa"
-    },
+      "page": "374. Sayfa",
     "id": "50986267-d72c-49dd-9993-fe00efcf9cea"
   },
   {
-    "fields": {
+
       "order": "375",
       "juz": "19",
       "juzorder": "15",
-      "page": "375. Sayfa"
-    },
+      "page": "375. Sayfa",
     "id": "df07ee2b-c22b-4034-93aa-bb695048b24e"
   },
   {
-    "fields": {
+
       "order": "376",
       "juz": "19",
       "juzorder": "16",
-      "page": "376. Sayfa"
-    },
+      "page": "376. Sayfa",
     "id": "6948b14f-6553-41f2-93e8-2527b563b7db"
   },
   {
-    "fields": {
+
       "order": "377",
       "juz": "19",
       "juzorder": "17",
-      "page": "377. Sayfa"
-    },
+      "page": "377. Sayfa",
     "id": "32bc0769-8d37-495d-a4bd-e0c2d3a255b8"
   },
   {
-    "fields": {
+
       "order": "378",
       "juz": "19",
       "juzorder": "18",
-      "page": "378. Sayfa"
-    },
+      "page": "378. Sayfa",
     "id": "fac7465d-fb5a-4852-80ca-621af4103f70"
   },
   {
-    "fields": {
+
       "order": "379",
       "juz": "19",
       "juzorder": "19",
-      "page": "379. Sayfa"
-    },
+      "page": "379. Sayfa",
     "id": "59fc51aa-081c-4a98-bd25-d76a0fc14bdc"
   },
   {
-    "fields": {
+
       "order": "380",
       "juz": "19",
       "juzorder": "20",
-      "page": "380. Sayfa"
-    },
+      "page": "380. Sayfa",
     "id": "0eb839aa-acbc-497c-991d-a9b61ad9f660"
   },
   {
-    "fields": {
+
       "order": "381",
       "juz": "20",
       "juzorder": "1",
-      "page": "381. Sayfa"
-    },
+      "page": "381. Sayfa",
     "id": "6413d99a-30e0-4115-84dd-cc5d04c38be1"
   },
   {
-    "fields": {
+
       "order": "382",
       "juz": "20",
       "juzorder": "2",
-      "page": "382. Sayfa"
-    },
+      "page": "382. Sayfa",
     "id": "ff15654f-0a83-4fef-b6e7-52af71d466ac"
   },
   {
-    "fields": {
+
       "order": "383",
       "juz": "20",
       "juzorder": "3",
-      "page": "383. Sayfa"
-    },
+      "page": "383. Sayfa",
     "id": "ac40be04-f882-4511-a7a8-410d1d7ebdfb"
   },
   {
-    "fields": {
+
       "order": "384",
       "juz": "20",
       "juzorder": "4",
-      "page": "384. Sayfa"
-    },
+      "page": "384. Sayfa",
     "id": "c6c5b458-40c0-4722-9218-e64691e33f55"
   },
   {
-    "fields": {
+
       "order": "385",
       "juz": "20",
       "juzorder": "5",
-      "page": "385. Sayfa"
-    },
+      "page": "385. Sayfa",
     "id": "ee519912-a1ab-4cad-9ffb-058a1ca022e8"
   },
   {
-    "fields": {
+
       "order": "386",
       "juz": "20",
       "juzorder": "6",
-      "page": "386. Sayfa"
-    },
+      "page": "386. Sayfa",
     "id": "2b871d25-0362-4221-9c94-6004a83a61ec"
   },
   {
-    "fields": {
+
       "order": "387",
       "juz": "20",
       "juzorder": "7",
-      "page": "387. Sayfa"
-    },
+      "page": "387. Sayfa",
     "id": "074b9d6e-e35a-438e-8c55-057c0495fe7a"
   },
   {
-    "fields": {
+
       "order": "388",
       "juz": "20",
       "juzorder": "8",
-      "page": "388. Sayfa"
-    },
+      "page": "388. Sayfa",
     "id": "15bd3045-9d98-43cd-82c7-2e2f7c517fe3"
   },
   {
-    "fields": {
+
       "order": "389",
       "juz": "20",
       "juzorder": "9",
-      "page": "389. Sayfa"
-    },
+      "page": "389. Sayfa",
     "id": "98d55d89-6340-43da-9f4d-1299fc82edea"
   },
   {
-    "fields": {
+
       "order": "390",
       "juz": "20",
       "juzorder": "10",
-      "page": "390. Sayfa"
-    },
+      "page": "390. Sayfa",
     "id": "cac61fea-2b49-45ba-a3f0-97494b1b309c"
   },
   {
-    "fields": {
+
       "order": "391",
       "juz": "20",
       "juzorder": "11",
-      "page": "391. Sayfa"
-    },
+      "page": "391. Sayfa",
     "id": "a3512492-2fc0-4f42-b3c8-6a37f1de5ce0"
   },
   {
-    "fields": {
+
       "order": "392",
       "juz": "20",
       "juzorder": "12",
-      "page": "392. Sayfa"
-    },
+      "page": "392. Sayfa",
     "id": "0280bd07-2a7c-4f5b-8c6b-31adbbbd5923"
   },
   {
-    "fields": {
+
       "order": "393",
       "juz": "20",
       "juzorder": "13",
-      "page": "393. Sayfa"
-    },
+      "page": "393. Sayfa",
     "id": "7fa39bc4-3f25-4dab-923d-86a2545dd25d"
   },
   {
-    "fields": {
+
       "order": "394",
       "juz": "20",
       "juzorder": "14",
-      "page": "394. Sayfa"
-    },
+      "page": "394. Sayfa",
     "id": "2220d334-68c9-4123-ab16-30b77f29f4e6"
   },
   {
-    "fields": {
+
       "order": "395",
       "juz": "20",
       "juzorder": "15",
-      "page": "395. Sayfa"
-    },
+      "page": "395. Sayfa",
     "id": "75d0be66-c84e-4634-ac02-b704a64cdadd"
   },
   {
-    "fields": {
+
       "order": "396",
       "juz": "20",
       "juzorder": "16",
-      "page": "396. Sayfa"
-    },
+      "page": "396. Sayfa",
     "id": "02a53b0f-4736-4b1c-b9d7-29ef52310af1"
   },
   {
-    "fields": {
+
       "order": "397",
       "juz": "20",
       "juzorder": "17",
-      "page": "397. Sayfa"
-    },
+      "page": "397. Sayfa",
     "id": "9e091d8e-e18f-44ac-9325-b4a33d0e8590"
   },
   {
-    "fields": {
+
       "order": "398",
       "juz": "20",
       "juzorder": "18",
-      "page": "398. Sayfa"
-    },
+      "page": "398. Sayfa",
     "id": "fc0f98c2-c633-4772-9051-3424e441c85a"
   },
   {
-    "fields": {
+
       "order": "399",
       "juz": "20",
       "juzorder": "19",
-      "page": "399. Sayfa"
-    },
+      "page": "399. Sayfa",
     "id": "45cbff85-d0ed-4a7c-a08b-894f9a0ad557"
   },
   {
-    "fields": {
+
       "order": "400",
       "juz": "20",
       "juzorder": "20",
-      "page": "400. Sayfa"
-    },
+      "page": "400. Sayfa",
     "id": "7108b6b5-1249-4563-8c8f-162e8937fb91"
   },
   {
-    "fields": {
+
       "order": "401",
       "juz": "21",
       "juzorder": "1",
-      "page": "401. Sayfa"
-    },
+      "page": "401. Sayfa",
     "id": "6af623cb-9fbd-40cf-8ca8-371d01010576"
   },
   {
-    "fields": {
+
       "order": "402",
       "juz": "21",
       "juzorder": "2",
-      "page": "402. Sayfa"
-    },
+      "page": "402. Sayfa",
     "id": "9308007c-aa60-4467-a5bc-86f7f768efff"
   },
   {
-    "fields": {
+
       "order": "403",
       "juz": "21",
       "juzorder": "3",
-      "page": "403. Sayfa"
-    },
+      "page": "403. Sayfa",
     "id": "103f0640-bcd3-4a17-8f9b-0fb865945a67"
   },
   {
-    "fields": {
+
       "order": "404",
       "juz": "21",
       "juzorder": "4",
-      "page": "404. Sayfa"
-    },
+      "page": "404. Sayfa",
     "id": "e624fd4f-e60f-4b23-a5ab-0584322a78a2"
   },
   {
-    "fields": {
+
       "order": "405",
       "juz": "21",
       "juzorder": "5",
-      "page": "405. Sayfa"
-    },
+      "page": "405. Sayfa",
     "id": "98ffaac7-cb81-4ef4-985c-1b5573862cad"
   },
   {
-    "fields": {
+
       "order": "406",
       "juz": "21",
       "juzorder": "6",
-      "page": "406. Sayfa"
-    },
+      "page": "406. Sayfa",
     "id": "8a3f44fb-448d-49c2-98c1-43d850f2c273"
   },
   {
-    "fields": {
+
       "order": "407",
       "juz": "21",
       "juzorder": "7",
-      "page": "407. Sayfa"
-    },
+      "page": "407. Sayfa",
     "id": "9437bdd7-127b-4d84-b796-34717c402cac"
   },
   {
-    "fields": {
+
       "order": "408",
       "juz": "21",
       "juzorder": "8",
-      "page": "408. Sayfa"
-    },
+      "page": "408. Sayfa",
     "id": "17e72b6d-3d28-4758-bccf-7af474fca0bc"
   },
   {
-    "fields": {
+
       "order": "409",
       "juz": "21",
       "juzorder": "9",
-      "page": "409. Sayfa"
-    },
+      "page": "409. Sayfa",
     "id": "e78697cc-ef23-4819-97ac-a4e6b90c7a44"
   },
   {
-    "fields": {
+
       "order": "410",
       "juz": "21",
       "juzorder": "10",
-      "page": "410. Sayfa"
-    },
+      "page": "410. Sayfa",
     "id": "c4da0e36-8717-4692-8c10-9422571b61d9"
   },
   {
-    "fields": {
+
       "order": "411",
       "juz": "21",
       "juzorder": "11",
-      "page": "411. Sayfa"
-    },
+      "page": "411. Sayfa",
     "id": "dd9e245d-01b7-4cc3-b83c-d9b57ee7a875"
   },
   {
-    "fields": {
+
       "order": "412",
       "juz": "21",
       "juzorder": "12",
-      "page": "412. Sayfa"
-    },
+      "page": "412. Sayfa",
     "id": "d645c902-016c-450b-ac34-6dc5deffe4bd"
   },
   {
-    "fields": {
+
       "order": "413",
       "juz": "21",
       "juzorder": "13",
-      "page": "413. Sayfa"
-    },
+      "page": "413. Sayfa",
     "id": "287c8ff8-6f89-4d1a-a85b-c1aa9a5e8371"
   },
   {
-    "fields": {
+
       "order": "414",
       "juz": "21",
       "juzorder": "14",
-      "page": "414. Sayfa"
-    },
+      "page": "414. Sayfa",
     "id": "a49b1a75-bc60-4f42-bf78-3152b8203251"
   },
   {
-    "fields": {
+
       "order": "415",
       "juz": "21",
       "juzorder": "15",
-      "page": "415. Sayfa"
-    },
+      "page": "415. Sayfa",
     "id": "a918cadd-ace3-4c69-accf-65e010362288"
   },
   {
-    "fields": {
+
       "order": "416",
       "juz": "21",
       "juzorder": "16",
-      "page": "416. Sayfa"
-    },
+      "page": "416. Sayfa",
     "id": "10b9c0f5-dfa3-4f41-ab9f-87e40b9ed58c"
   },
   {
-    "fields": {
+
       "order": "417",
       "juz": "21",
       "juzorder": "17",
-      "page": "417. Sayfa"
-    },
+      "page": "417. Sayfa",
     "id": "c59ddade-a001-4dc4-b886-772722a6b840"
   },
   {
-    "fields": {
+
       "order": "418",
       "juz": "21",
       "juzorder": "18",
-      "page": "418. Sayfa"
-    },
+      "page": "418. Sayfa",
     "id": "443d518e-0f75-436d-a379-a854083fc850"
   },
   {
-    "fields": {
+
       "order": "419",
       "juz": "21",
       "juzorder": "19",
-      "page": "419. Sayfa"
-    },
+      "page": "419. Sayfa",
     "id": "e0b8f61f-66b0-484f-886a-f53c5c6c39a2"
   },
   {
-    "fields": {
+
       "order": "420",
       "juz": "21",
       "juzorder": "20",
-      "page": "420. Sayfa"
-    },
+      "page": "420. Sayfa",
     "id": "4c2cce36-0ae8-4048-9ab6-eb1c947db554"
   },
   {
-    "fields": {
+
       "order": "421",
       "juz": "22",
       "juzorder": "1",
-      "page": "421. Sayfa"
-    },
+      "page": "421. Sayfa",
     "id": "aa2e5666-f36f-42e2-8588-45c0e9cadb0e"
   },
   {
-    "fields": {
+
       "order": "422",
       "juz": "22",
       "juzorder": "2",
-      "page": "422. Sayfa"
-    },
+      "page": "422. Sayfa",
     "id": "38f3645f-be67-4eb8-9fc9-f044af055ea2"
   },
   {
-    "fields": {
+
       "order": "423",
       "juz": "22",
       "juzorder": "3",
-      "page": "423. Sayfa"
-    },
+      "page": "423. Sayfa",
     "id": "615ada9a-b0e9-484d-bca6-3a1597d6d837"
   },
   {
-    "fields": {
+
       "order": "424",
       "juz": "22",
       "juzorder": "4",
-      "page": "424. Sayfa"
-    },
+      "page": "424. Sayfa",
     "id": "b78882dd-478e-4e51-acc2-d7f3f5c5c1a6"
   },
   {
-    "fields": {
+
       "order": "425",
       "juz": "22",
       "juzorder": "5",
-      "page": "425. Sayfa"
-    },
+      "page": "425. Sayfa",
     "id": "a8889a61-372c-4d86-9ade-b218da2b8026"
   },
   {
-    "fields": {
+
       "order": "426",
       "juz": "22",
       "juzorder": "6",
-      "page": "426. Sayfa"
-    },
+      "page": "426. Sayfa",
     "id": "295b76a7-513d-4211-a065-95056b41c479"
   },
   {
-    "fields": {
+
       "order": "427",
       "juz": "22",
       "juzorder": "7",
-      "page": "427. Sayfa"
-    },
+      "page": "427. Sayfa",
     "id": "31b56f8b-a099-4dd1-a9e1-d6fde3f52443"
   },
   {
-    "fields": {
+
       "order": "428",
       "juz": "22",
       "juzorder": "8",
-      "page": "428. Sayfa"
-    },
+      "page": "428. Sayfa",
     "id": "89393a03-0f3e-4025-888a-198b86031245"
   },
   {
-    "fields": {
+
       "order": "429",
       "juz": "22",
       "juzorder": "9",
-      "page": "429. Sayfa"
-    },
+      "page": "429. Sayfa",
     "id": "8d003bef-283e-440b-8633-44b88e74fc18"
   },
   {
-    "fields": {
+
       "order": "430",
       "juz": "22",
       "juzorder": "10",
-      "page": "430. Sayfa"
-    },
+      "page": "430. Sayfa",
     "id": "ad2ca65d-ae20-4e44-8f28-1ee36f4823b7"
   },
   {
-    "fields": {
+
       "order": "431",
       "juz": "22",
       "juzorder": "11",
-      "page": "431. Sayfa"
-    },
+      "page": "431. Sayfa",
     "id": "b9c2d28c-eda7-4202-b007-215cbbb3e9fa"
   },
   {
-    "fields": {
+
       "order": "432",
       "juz": "22",
       "juzorder": "12",
-      "page": "432. Sayfa"
-    },
+      "page": "432. Sayfa",
     "id": "f8e1afa5-5a77-4092-a82c-32d86d740a34"
   },
   {
-    "fields": {
+
       "order": "433",
       "juz": "22",
       "juzorder": "13",
-      "page": "433. Sayfa"
-    },
+      "page": "433. Sayfa",
     "id": "70190cf0-089e-463c-ae98-4c1e504d0dba"
   },
   {
-    "fields": {
+
       "order": "434",
       "juz": "22",
       "juzorder": "14",
-      "page": "434. Sayfa"
-    },
+      "page": "434. Sayfa",
     "id": "eaab887c-6754-4623-a6d8-5afa2976a968"
   },
   {
-    "fields": {
+
       "order": "435",
       "juz": "22",
       "juzorder": "15",
-      "page": "435. Sayfa"
-    },
+      "page": "435. Sayfa",
     "id": "a4959a80-4a0a-484c-b8e3-67562d905fb8"
   },
   {
-    "fields": {
+
       "order": "436",
       "juz": "22",
       "juzorder": "16",
-      "page": "436. Sayfa"
-    },
+      "page": "436. Sayfa",
     "id": "6ab0b319-d8d2-49ea-83b8-ee8dd2a9df63"
   },
   {
-    "fields": {
+
       "order": "437",
       "juz": "22",
       "juzorder": "17",
-      "page": "437. Sayfa"
-    },
+      "page": "437. Sayfa",
     "id": "029a835d-01a9-4c3d-b557-4f1ce167a20b"
   },
   {
-    "fields": {
+
       "order": "438",
       "juz": "22",
       "juzorder": "18",
-      "page": "438. Sayfa"
-    },
+      "page": "438. Sayfa",
     "id": "18a95c6f-7140-493f-8764-af07c0217176"
   },
   {
-    "fields": {
+
       "order": "439",
       "juz": "22",
       "juzorder": "19",
-      "page": "439. Sayfa"
-    },
+      "page": "439. Sayfa",
     "id": "6575eabe-a684-4348-b997-196793f29613"
   },
   {
-    "fields": {
+
       "order": "440",
       "juz": "22",
       "juzorder": "20",
-      "page": "440. Sayfa"
-    },
+      "page": "440. Sayfa",
     "id": "763fbf3c-025f-49c6-9b6f-5a116b767ac4"
   },
   {
-    "fields": {
+
       "order": "441",
       "juz": "23",
       "juzorder": "1",
-      "page": "441. Sayfa"
-    },
+      "page": "441. Sayfa",
     "id": "fee2c99f-68cc-43c6-bab4-d6645e5fa6de"
   },
   {
-    "fields": {
+
       "order": "442",
       "juz": "23",
       "juzorder": "2",
-      "page": "442. Sayfa"
-    },
+      "page": "442. Sayfa",
     "id": "5b857a2b-20b5-47c9-b28a-f31492aec0fd"
   },
   {
-    "fields": {
+
       "order": "443",
       "juz": "23",
       "juzorder": "3",
-      "page": "443. Sayfa"
-    },
+      "page": "443. Sayfa",
     "id": "07ffb9bd-c3fb-475f-9d7b-6b08b02df719"
   },
   {
-    "fields": {
+
       "order": "444",
       "juz": "23",
       "juzorder": "4",
-      "page": "444. Sayfa"
-    },
+      "page": "444. Sayfa",
     "id": "438f9b16-568f-445c-80a2-02b6a11bfbee"
   },
   {
-    "fields": {
+
       "order": "445",
       "juz": "23",
       "juzorder": "5",
-      "page": "445. Sayfa"
-    },
+      "page": "445. Sayfa",
     "id": "e1232d02-b8e5-4ad4-b6f5-b32b1190a7d0"
   },
   {
-    "fields": {
+
       "order": "446",
       "juz": "23",
       "juzorder": "6",
-      "page": "446. Sayfa"
-    },
+      "page": "446. Sayfa",
     "id": "243ff7b8-d1b3-4f10-9c0d-56e40fd9c256"
   },
   {
-    "fields": {
+
       "order": "447",
       "juz": "23",
       "juzorder": "7",
-      "page": "447. Sayfa"
-    },
+      "page": "447. Sayfa",
     "id": "b6c6455c-3353-4ee9-86ee-98f4d25078b8"
   },
   {
-    "fields": {
+
       "order": "448",
       "juz": "23",
       "juzorder": "8",
-      "page": "448. Sayfa"
-    },
+      "page": "448. Sayfa",
     "id": "07567a5c-ac72-464e-adc1-eb0aae6b55ae"
   },
   {
-    "fields": {
+
       "order": "449",
       "juz": "23",
       "juzorder": "9",
-      "page": "449. Sayfa"
-    },
+      "page": "449. Sayfa",
     "id": "8961707c-f4cf-4443-8426-3ba5b349b5f6"
   },
   {
-    "fields": {
+
       "order": "450",
       "juz": "23",
       "juzorder": "10",
-      "page": "450. Sayfa"
-    },
+      "page": "450. Sayfa",
     "id": "2aa7781d-d308-4b64-928a-3556c70df009"
   },
   {
-    "fields": {
+
       "order": "451",
       "juz": "23",
       "juzorder": "11",
-      "page": "451. Sayfa"
-    },
+      "page": "451. Sayfa",
     "id": "4b1a3701-34a2-4dc5-b94e-7995e740583f"
   },
   {
-    "fields": {
+
       "order": "452",
       "juz": "23",
       "juzorder": "12",
-      "page": "452. Sayfa"
-    },
+      "page": "452. Sayfa",
     "id": "610e42de-1cb9-40c1-9b33-7384a7429fc0"
   },
   {
-    "fields": {
+
       "order": "453",
       "juz": "23",
       "juzorder": "13",
-      "page": "453. Sayfa"
-    },
+      "page": "453. Sayfa",
     "id": "f585dbc2-cc5a-4cc6-9bcd-75787ad9f32f"
   },
   {
-    "fields": {
+
       "order": "454",
       "juz": "23",
       "juzorder": "14",
-      "page": "454. Sayfa"
-    },
+      "page": "454. Sayfa",
     "id": "24d67e81-2c3c-4dda-94c2-a1a33214ede9"
   },
   {
-    "fields": {
+
       "order": "455",
       "juz": "23",
       "juzorder": "15",
-      "page": "455. Sayfa"
-    },
+      "page": "455. Sayfa",
     "id": "6851de04-9296-4ada-9b22-eac12a01199c"
   },
   {
-    "fields": {
+
       "order": "456",
       "juz": "23",
       "juzorder": "16",
-      "page": "456. Sayfa"
-    },
+      "page": "456. Sayfa",
     "id": "54037280-5e2d-42d9-aec4-81810d7a1188"
   },
   {
-    "fields": {
+
       "order": "457",
       "juz": "23",
       "juzorder": "17",
-      "page": "457. Sayfa"
-    },
+      "page": "457. Sayfa",
     "id": "605449d2-4d16-468d-9748-cee7e8b19f63"
   },
   {
-    "fields": {
+
       "order": "458",
       "juz": "23",
       "juzorder": "18",
-      "page": "458. Sayfa"
-    },
+      "page": "458. Sayfa",
     "id": "ffd96733-4920-4eac-ad60-55dbfdbe5f1d"
   },
   {
-    "fields": {
+
       "order": "459",
       "juz": "23",
       "juzorder": "19",
-      "page": "459. Sayfa"
-    },
+      "page": "459. Sayfa",
     "id": "57f2b46e-ff7e-4802-935e-59ac50c5361a"
   },
   {
-    "fields": {
+
       "order": "460",
       "juz": "23",
       "juzorder": "20",
-      "page": "460. Sayfa"
-    },
+      "page": "460. Sayfa",
     "id": "ac94d737-6d9d-4fc1-bf82-1ccd7f520fab"
   },
   {
-    "fields": {
+
       "order": "461",
       "juz": "24",
       "juzorder": "1",
-      "page": "461. Sayfa"
-    },
+      "page": "461. Sayfa",
     "id": "de64599b-04b9-4379-9226-78ce75ca937b"
   },
   {
-    "fields": {
+
       "order": "462",
       "juz": "24",
       "juzorder": "2",
-      "page": "462. Sayfa"
-    },
+      "page": "462. Sayfa",
     "id": "6450b4f7-34d5-4154-acef-5e92fc19aabf"
   },
   {
-    "fields": {
+
       "order": "463",
       "juz": "24",
       "juzorder": "3",
-      "page": "463. Sayfa"
-    },
+      "page": "463. Sayfa",
     "id": "05a5a1a3-aff1-4850-98aa-ada2a33b5df2"
   },
   {
-    "fields": {
+
       "order": "464",
       "juz": "24",
       "juzorder": "4",
-      "page": "464. Sayfa"
-    },
+      "page": "464. Sayfa",
     "id": "e3b3bb0b-b569-4258-aaed-a84953a32cb9"
   },
   {
-    "fields": {
+
       "order": "465",
       "juz": "24",
       "juzorder": "5",
-      "page": "465. Sayfa"
-    },
+      "page": "465. Sayfa",
     "id": "1f943fd4-ba94-4872-b7b5-b23fe1f5c9d9"
   },
   {
-    "fields": {
+
       "order": "466",
       "juz": "24",
       "juzorder": "6",
-      "page": "466. Sayfa"
-    },
+      "page": "466. Sayfa",
     "id": "4c2a9325-32aa-4aee-a56c-e113622fc18c"
   },
   {
-    "fields": {
+
       "order": "467",
       "juz": "24",
       "juzorder": "7",
-      "page": "467. Sayfa"
-    },
+      "page": "467. Sayfa",
     "id": "a8f8748d-d06a-481a-b1b0-25c514ea06e7"
   },
   {
-    "fields": {
+
       "order": "468",
       "juz": "24",
       "juzorder": "8",
-      "page": "468. Sayfa"
-    },
+      "page": "468. Sayfa",
     "id": "e1df05a2-b1e9-4b99-9aa9-5e43cbdb2025"
   },
   {
-    "fields": {
+
       "order": "469",
       "juz": "24",
       "juzorder": "9",
-      "page": "469. Sayfa"
-    },
+      "page": "469. Sayfa",
     "id": "fe1f1d82-4fa9-4fce-8df6-7993a3fabe05"
   },
   {
-    "fields": {
+
       "order": "470",
       "juz": "24",
       "juzorder": "10",
-      "page": "470. Sayfa"
-    },
+      "page": "470. Sayfa",
     "id": "40787413-708d-474d-97e6-eb3b9d466af6"
   },
   {
-    "fields": {
+
       "order": "471",
       "juz": "24",
       "juzorder": "11",
-      "page": "471. Sayfa"
-    },
+      "page": "471. Sayfa",
     "id": "c94d23f7-34a5-4979-b8dd-c10cacfd51c0"
   },
   {
-    "fields": {
+
       "order": "472",
       "juz": "24",
       "juzorder": "12",
-      "page": "472. Sayfa"
-    },
+      "page": "472. Sayfa",
     "id": "2c503d37-72de-477d-b627-8b23bdeb3e32"
   },
   {
-    "fields": {
+
       "order": "473",
       "juz": "24",
       "juzorder": "13",
-      "page": "473. Sayfa"
-    },
+      "page": "473. Sayfa",
     "id": "0c8f96dc-f252-46a9-97b0-ab096ce0f97c"
   },
   {
-    "fields": {
+
       "order": "474",
       "juz": "24",
       "juzorder": "14",
-      "page": "474. Sayfa"
-    },
+      "page": "474. Sayfa",
     "id": "61df348b-0368-46c9-b419-44603a504223"
   },
   {
-    "fields": {
+
       "order": "475",
       "juz": "24",
       "juzorder": "15",
-      "page": "475. Sayfa"
-    },
+      "page": "475. Sayfa",
     "id": "95f38915-4280-493a-8e54-bf597df600cf"
   },
   {
-    "fields": {
+
       "order": "476",
       "juz": "24",
       "juzorder": "16",
-      "page": "476. Sayfa"
-    },
+      "page": "476. Sayfa",
     "id": "a68b22f2-dfa3-4afd-87e4-e2f7c1be6d84"
   },
   {
-    "fields": {
+
       "order": "477",
       "juz": "24",
       "juzorder": "17",
-      "page": "477. Sayfa"
-    },
+      "page": "477. Sayfa",
     "id": "af309a2f-175d-4ae5-982f-46eef4173bab"
   },
   {
-    "fields": {
+
       "order": "478",
       "juz": "24",
       "juzorder": "18",
-      "page": "478. Sayfa"
-    },
+      "page": "478. Sayfa",
     "id": "25c7b73b-5f8e-4b4c-bcd4-1c9ac4d1e2c3"
   },
   {
-    "fields": {
+
       "order": "479",
       "juz": "24",
       "juzorder": "19",
-      "page": "479. Sayfa"
-    },
+      "page": "479. Sayfa",
     "id": "c6a30a41-2993-47e6-b4bf-aec99305b67e"
   },
   {
-    "fields": {
+
       "order": "480",
       "juz": "24",
       "juzorder": "20",
-      "page": "480. Sayfa"
-    },
+      "page": "480. Sayfa",
     "id": "b0d015b0-a0ba-418c-b9c7-ae4136abf956"
   },
   {
-    "fields": {
+
       "order": "481",
       "juz": "25",
       "juzorder": "1",
-      "page": "481. Sayfa"
-    },
+      "page": "481. Sayfa",
     "id": "472a56a1-68dc-4b50-88d9-acaa6a723c0f"
   },
   {
-    "fields": {
+
       "order": "482",
       "juz": "25",
       "juzorder": "2",
-      "page": "482. Sayfa"
-    },
+      "page": "482. Sayfa",
     "id": "6ccdbbbb-7182-46a3-b5c9-af3c19b8e989"
   },
   {
-    "fields": {
+
       "order": "483",
       "juz": "25",
       "juzorder": "3",
-      "page": "483. Sayfa"
-    },
+      "page": "483. Sayfa",
     "id": "5956e16e-21d1-423c-a2d5-c864f7f57b8c"
   },
   {
-    "fields": {
+
       "order": "484",
       "juz": "25",
       "juzorder": "4",
-      "page": "484. Sayfa"
-    },
+      "page": "484. Sayfa",
     "id": "27b5b740-4f43-4780-8f79-c18cf62a8558"
   },
   {
-    "fields": {
+
       "order": "485",
       "juz": "25",
       "juzorder": "5",
-      "page": "485. Sayfa"
-    },
+      "page": "485. Sayfa",
     "id": "1bb1f256-11c8-4917-947e-d4a066bfe89c"
   },
   {
-    "fields": {
+
       "order": "486",
       "juz": "25",
       "juzorder": "6",
-      "page": "486. Sayfa"
-    },
+      "page": "486. Sayfa",
     "id": "3b089a7b-5e05-4ec1-976a-fefade3dd695"
   },
   {
-    "fields": {
+
       "order": "487",
       "juz": "25",
       "juzorder": "7",
-      "page": "487. Sayfa"
-    },
+      "page": "487. Sayfa",
     "id": "985e408b-d2c9-45aa-aec6-d2e5671d3916"
   },
   {
-    "fields": {
+
       "order": "488",
       "juz": "25",
       "juzorder": "8",
-      "page": "488. Sayfa"
-    },
+      "page": "488. Sayfa",
     "id": "6e7e432d-1086-4e0d-8af4-ee35e5f63911"
   },
   {
-    "fields": {
+
       "order": "489",
       "juz": "25",
       "juzorder": "9",
-      "page": "489. Sayfa"
-    },
+      "page": "489. Sayfa",
     "id": "c9127e61-8fd0-4de6-9ea0-71473b8fef89"
   },
   {
-    "fields": {
+
       "order": "490",
       "juz": "25",
       "juzorder": "10",
-      "page": "490. Sayfa"
-    },
+      "page": "490. Sayfa",
     "id": "fc942719-278b-4e0f-a069-8fe478ec22c1"
   },
   {
-    "fields": {
+
       "order": "491",
       "juz": "25",
       "juzorder": "11",
-      "page": "491. Sayfa"
-    },
+      "page": "491. Sayfa",
     "id": "6386586e-dc69-47aa-97bc-9de398056c66"
   },
   {
-    "fields": {
+
       "order": "492",
       "juz": "25",
       "juzorder": "12",
-      "page": "492. Sayfa"
-    },
+      "page": "492. Sayfa",
     "id": "2757ad1e-8920-4f49-bc46-30aa9cf4c410"
   },
   {
-    "fields": {
+
       "order": "493",
       "juz": "25",
       "juzorder": "13",
-      "page": "493. Sayfa"
-    },
+      "page": "493. Sayfa",
     "id": "5d7308e1-064a-448a-a6a8-006caf4ec682"
   },
   {
-    "fields": {
+
       "order": "494",
       "juz": "25",
       "juzorder": "14",
-      "page": "494. Sayfa"
-    },
+      "page": "494. Sayfa",
     "id": "c7fe6413-aaf7-42a4-a6f3-fc94e1c789c4"
   },
   {
-    "fields": {
+
       "order": "495",
       "juz": "25",
       "juzorder": "15",
-      "page": "495. Sayfa"
-    },
+      "page": "495. Sayfa",
     "id": "2e3c4225-65f1-407a-96dc-ef7ff6c790b1"
   },
   {
-    "fields": {
+
       "order": "496",
       "juz": "25",
       "juzorder": "16",
-      "page": "496. Sayfa"
-    },
+      "page": "496. Sayfa",
     "id": "2583256b-c051-4537-82e7-12a1dcb8f6bb"
   },
   {
-    "fields": {
+
       "order": "497",
       "juz": "25",
       "juzorder": "17",
-      "page": "497. Sayfa"
-    },
+      "page": "497. Sayfa",
     "id": "15bee3f8-cfd5-4c99-907f-0d06b94c9984"
   },
   {
-    "fields": {
+
       "order": "498",
       "juz": "25",
       "juzorder": "18",
-      "page": "498. Sayfa"
-    },
+      "page": "498. Sayfa",
     "id": "77d4cd13-d100-4209-b108-4d7cfb78e440"
   },
   {
-    "fields": {
+
       "order": "499",
       "juz": "25",
       "juzorder": "19",
-      "page": "499. Sayfa"
-    },
+      "page": "499. Sayfa",
     "id": "fdbfeb6c-9080-4f97-bd8f-c030b8e78c99"
   },
   {
-    "fields": {
+
       "order": "500",
       "juz": "25",
       "juzorder": "20",
-      "page": "500. Sayfa"
-    },
+      "page": "500. Sayfa",
     "id": "2d6cff79-4e50-4d67-9dff-4843bd209135"
   },
   {
-    "fields": {
+
       "order": "501",
       "juz": "26",
       "juzorder": "1",
-      "page": "501. Sayfa"
-    },
+      "page": "501. Sayfa",
     "id": "415b22cf-8a36-4743-9413-9f77d9da1f33"
   },
   {
-    "fields": {
+
       "order": "502",
       "juz": "26",
       "juzorder": "2",
-      "page": "502. Sayfa"
-    },
+      "page": "502. Sayfa",
     "id": "524fa439-6b90-4db0-bbaf-474d7cf08dab"
   },
   {
-    "fields": {
+
       "order": "503",
       "juz": "26",
       "juzorder": "3",
-      "page": "503. Sayfa"
-    },
+      "page": "503. Sayfa",
     "id": "796edf25-da5b-4f15-be9c-729aa5f7bf85"
   },
   {
-    "fields": {
+
       "order": "504",
       "juz": "26",
       "juzorder": "4",
-      "page": "504. Sayfa"
-    },
+      "page": "504. Sayfa",
     "id": "431c5fb4-f86b-433e-a1fc-0347f7397c5b"
   },
   {
-    "fields": {
+
       "order": "505",
       "juz": "26",
       "juzorder": "5",
-      "page": "505. Sayfa"
-    },
+      "page": "505. Sayfa",
     "id": "be953764-6df5-430b-a808-242162f2915b"
   },
   {
-    "fields": {
+
       "order": "506",
       "juz": "26",
       "juzorder": "6",
-      "page": "506. Sayfa"
-    },
+      "page": "506. Sayfa",
     "id": "2f6817e3-4f4f-4c0a-b865-7bbff59a64f5"
   },
   {
-    "fields": {
+
       "order": "507",
       "juz": "26",
       "juzorder": "7",
-      "page": "507. Sayfa"
-    },
+      "page": "507. Sayfa",
     "id": "cba312cd-ddd6-4de4-ab58-c9abe929b237"
   },
   {
-    "fields": {
+
       "order": "508",
       "juz": "26",
       "juzorder": "8",
-      "page": "508. Sayfa"
-    },
+      "page": "508. Sayfa",
     "id": "ff4dccf2-2b64-44c3-b952-83acaf2b106e"
   },
   {
-    "fields": {
+
       "order": "509",
       "juz": "26",
       "juzorder": "9",
-      "page": "509. Sayfa"
-    },
+      "page": "509. Sayfa",
     "id": "927882c6-d9aa-4f60-ade7-44d3799e3d2d"
   },
   {
-    "fields": {
+
       "order": "510",
       "juz": "26",
       "juzorder": "10",
-      "page": "510. Sayfa"
-    },
+      "page": "510. Sayfa",
     "id": "41d5dd35-976e-464f-850a-9fe1eadd456b"
   },
   {
-    "fields": {
+
       "order": "511",
       "juz": "26",
       "juzorder": "11",
-      "page": "511. Sayfa"
-    },
+      "page": "511. Sayfa",
     "id": "5f680756-26ab-46c2-a8ea-0c1c5b01dec8"
   },
   {
-    "fields": {
+
       "order": "512",
       "juz": "26",
       "juzorder": "12",
-      "page": "512. Sayfa"
-    },
+      "page": "512. Sayfa",
     "id": "27acadf1-471c-41c6-b6a0-af4ef3143bd8"
   },
   {
-    "fields": {
+
       "order": "513",
       "juz": "26",
       "juzorder": "13",
-      "page": "513. Sayfa"
-    },
+      "page": "513. Sayfa",
     "id": "7871e6dd-3e64-4a64-be5b-6b4da7ec09e6"
   },
   {
-    "fields": {
+
       "order": "514",
       "juz": "26",
       "juzorder": "14",
-      "page": "514. Sayfa"
-    },
+      "page": "514. Sayfa",
     "id": "e02a97fe-bbca-4886-b32e-874c72ec15cc"
   },
   {
-    "fields": {
+
       "order": "515",
       "juz": "26",
       "juzorder": "15",
-      "page": "515. Sayfa"
-    },
+      "page": "515. Sayfa",
     "id": "346ca6ea-bb0f-46f8-8ca3-0e90db281917"
   },
   {
-    "fields": {
+
       "order": "516",
       "juz": "26",
       "juzorder": "16",
-      "page": "516. Sayfa"
-    },
+      "page": "516. Sayfa",
     "id": "80d6b392-2778-4ee0-8527-cb15af03d809"
   },
   {
-    "fields": {
+
       "order": "517",
       "juz": "26",
       "juzorder": "17",
-      "page": "517. Sayfa"
-    },
+      "page": "517. Sayfa",
     "id": "c7d6b81a-29ad-47dd-abe7-82684cf20af2"
   },
   {
-    "fields": {
+
       "order": "518",
       "juz": "26",
       "juzorder": "18",
-      "page": "518. Sayfa"
-    },
+      "page": "518. Sayfa",
     "id": "31bead6b-206f-47c3-a804-1af909a88618"
   },
   {
-    "fields": {
+
       "order": "519",
       "juz": "26",
       "juzorder": "19",
-      "page": "519. Sayfa"
-    },
+      "page": "519. Sayfa",
     "id": "b18fd577-76cd-41ec-8f7b-323df3d77dde"
   },
   {
-    "fields": {
+
       "order": "520",
       "juz": "26",
       "juzorder": "20",
-      "page": "520. Sayfa"
-    },
+      "page": "520. Sayfa",
     "id": "31b7a422-2329-4a35-ae17-2b094b3735ab"
   },
   {
-    "fields": {
+
       "order": "521",
       "juz": "27",
       "juzorder": "1",
-      "page": "521. Sayfa"
-    },
+      "page": "521. Sayfa",
     "id": "2bace9d3-371d-4e13-becf-99d5b9982527"
   },
   {
-    "fields": {
+
       "order": "522",
       "juz": "27",
       "juzorder": "2",
-      "page": "522. Sayfa"
-    },
+      "page": "522. Sayfa",
     "id": "beb94ccb-703e-4bc3-9dcf-a37737da87c6"
   },
   {
-    "fields": {
+
       "order": "523",
       "juz": "27",
       "juzorder": "3",
-      "page": "523. Sayfa"
-    },
+      "page": "523. Sayfa",
     "id": "84682117-7c7a-4d3e-856e-bcf848e324a5"
   },
   {
-    "fields": {
+
       "order": "524",
       "juz": "27",
       "juzorder": "4",
-      "page": "524. Sayfa"
-    },
+      "page": "524. Sayfa",
     "id": "3e5ba108-7155-49c9-8d33-655ba03d944a"
   },
   {
-    "fields": {
+
       "order": "525",
       "juz": "27",
       "juzorder": "5",
-      "page": "525. Sayfa"
-    },
+      "page": "525. Sayfa",
     "id": "26349ac1-b9ac-42d8-bea6-03c56dde6ba5"
   },
   {
-    "fields": {
+
       "order": "526",
       "juz": "27",
       "juzorder": "6",
-      "page": "526. Sayfa"
-    },
+      "page": "526. Sayfa",
     "id": "63c033ae-5402-4267-a1b1-bd44d7a3d7d6"
   },
   {
-    "fields": {
+
       "order": "527",
       "juz": "27",
       "juzorder": "7",
-      "page": "527. Sayfa"
-    },
+      "page": "527. Sayfa",
     "id": "f0120af6-d7ac-484e-b9df-cd02f8189d87"
   },
   {
-    "fields": {
+
       "order": "528",
       "juz": "27",
       "juzorder": "8",
-      "page": "528. Sayfa"
-    },
+      "page": "528. Sayfa",
     "id": "7f6b664f-5d5c-474f-aabc-244ad82ad51a"
   },
   {
-    "fields": {
+
       "order": "529",
       "juz": "27",
       "juzorder": "9",
-      "page": "529. Sayfa"
-    },
+      "page": "529. Sayfa",
     "id": "e4107da0-9197-4106-8337-85ef781a9f9d"
   },
   {
-    "fields": {
+
       "order": "530",
       "juz": "27",
       "juzorder": "10",
-      "page": "530. Sayfa"
-    },
+      "page": "530. Sayfa",
     "id": "204cd97b-3aa3-45ee-8631-69fb1474444b"
   },
   {
-    "fields": {
+
       "order": "531",
       "juz": "27",
       "juzorder": "11",
-      "page": "531. Sayfa"
-    },
+      "page": "531. Sayfa",
     "id": "612aad01-a53f-4630-b6d0-6c845573a232"
   },
   {
-    "fields": {
+
       "order": "532",
       "juz": "27",
       "juzorder": "12",
-      "page": "532. Sayfa"
-    },
+      "page": "532. Sayfa",
     "id": "af4e550f-ad68-4c83-921a-8ea74706723a"
   },
   {
-    "fields": {
+
       "order": "533",
       "juz": "27",
       "juzorder": "13",
-      "page": "533. Sayfa"
-    },
+      "page": "533. Sayfa",
     "id": "c49cb3a7-2a80-4681-8eba-de33ea7c8dc0"
   },
   {
-    "fields": {
+
       "order": "534",
       "juz": "27",
       "juzorder": "14",
-      "page": "534. Sayfa"
-    },
+      "page": "534. Sayfa",
     "id": "1c0ed9a8-cdc2-43f1-b1cc-703824e6388c"
   },
   {
-    "fields": {
+
       "order": "535",
       "juz": "27",
       "juzorder": "15",
-      "page": "535. Sayfa"
-    },
+      "page": "535. Sayfa",
     "id": "8233a9dd-18c3-4436-a477-abd7e374a76c"
   },
   {
-    "fields": {
+
       "order": "536",
       "juz": "27",
       "juzorder": "16",
-      "page": "536. Sayfa"
-    },
+      "page": "536. Sayfa",
     "id": "5b7ca384-28cc-47ab-9433-7ebde42b6238"
   },
   {
-    "fields": {
+
       "order": "537",
       "juz": "27",
       "juzorder": "17",
-      "page": "537. Sayfa"
-    },
+      "page": "537. Sayfa",
     "id": "bd53dd01-89b4-4ca6-b962-ec7f8d861b67"
   },
   {
-    "fields": {
+
       "order": "538",
       "juz": "27",
       "juzorder": "18",
-      "page": "538. Sayfa"
-    },
+      "page": "538. Sayfa",
     "id": "cf529415-bf8d-424c-8d27-9d33f8a9ed6a"
   },
   {
-    "fields": {
+
       "order": "539",
       "juz": "27",
       "juzorder": "19",
-      "page": "539. Sayfa"
-    },
+      "page": "539. Sayfa",
     "id": "148dcd76-f6d5-4627-b846-f1ebb1b18756"
   },
   {
-    "fields": {
+
       "order": "540",
       "juz": "27",
       "juzorder": "20",
-      "page": "540. Sayfa"
-    },
+      "page": "540. Sayfa",
     "id": "765fb782-c766-423f-bcbf-6896549c201a"
   },
   {
-    "fields": {
+
       "order": "541",
       "juz": "28",
       "juzorder": "1",
-      "page": "541. Sayfa"
-    },
+      "page": "541. Sayfa",
     "id": "8ccdb684-72e5-4905-8e65-7da1f2e702ae"
   },
   {
-    "fields": {
+
       "order": "542",
       "juz": "28",
       "juzorder": "2",
-      "page": "542. Sayfa"
-    },
+      "page": "542. Sayfa",
     "id": "1f2e3acb-fb0b-4ed7-9b7a-df71bfad4116"
   },
   {
-    "fields": {
+
       "order": "543",
       "juz": "28",
       "juzorder": "3",
-      "page": "543. Sayfa"
-    },
+      "page": "543. Sayfa",
     "id": "5fb3e350-7139-4024-9622-f41d85c81806"
   },
   {
-    "fields": {
+
       "order": "544",
       "juz": "28",
       "juzorder": "4",
-      "page": "544. Sayfa"
-    },
+      "page": "544. Sayfa",
     "id": "29343670-53e1-4407-8234-23f4d717bd6a"
   },
   {
-    "fields": {
+
       "order": "545",
       "juz": "28",
       "juzorder": "5",
-      "page": "545. Sayfa"
-    },
+      "page": "545. Sayfa",
     "id": "dd90c28a-42d4-4c55-8809-24af83512506"
   },
   {
-    "fields": {
+
       "order": "546",
       "juz": "28",
       "juzorder": "6",
-      "page": "546. Sayfa"
-    },
+      "page": "546. Sayfa",
     "id": "cc67bf93-0f16-4839-bb87-bd4957ed1629"
   },
   {
-    "fields": {
+
       "order": "547",
       "juz": "28",
       "juzorder": "7",
-      "page": "547. Sayfa"
-    },
+      "page": "547. Sayfa",
     "id": "4f14381a-79ba-4360-af0f-8ee735492372"
   },
   {
-    "fields": {
+
       "order": "548",
       "juz": "28",
       "juzorder": "8",
-      "page": "548. Sayfa"
-    },
+      "page": "548. Sayfa",
     "id": "7a3f0f32-1b81-474e-8a84-eb27970ba19d"
   },
   {
-    "fields": {
+
       "order": "549",
       "juz": "28",
       "juzorder": "9",
-      "page": "549. Sayfa"
-    },
+      "page": "549. Sayfa",
     "id": "69e78661-0a9d-4b49-b7b7-5709cc52abef"
   },
   {
-    "fields": {
+
       "order": "550",
       "juz": "28",
       "juzorder": "10",
-      "page": "550. Sayfa"
-    },
+      "page": "550. Sayfa",
     "id": "877a5757-9f31-40e6-a08d-ad86a0a6d820"
   },
   {
-    "fields": {
+
       "order": "551",
       "juz": "28",
       "juzorder": "11",
-      "page": "551. Sayfa"
-    },
+      "page": "551. Sayfa",
     "id": "e5ab8d25-cec8-4571-87b3-c75ceb0d71f9"
   },
   {
-    "fields": {
+
       "order": "552",
       "juz": "28",
       "juzorder": "12",
-      "page": "552. Sayfa"
-    },
+      "page": "552. Sayfa",
     "id": "a2567c8b-1337-4c1b-b98f-7ae9dcfda794"
   },
   {
-    "fields": {
+
       "order": "553",
       "juz": "28",
       "juzorder": "13",
-      "page": "553. Sayfa"
-    },
+      "page": "553. Sayfa",
     "id": "fb02ed0b-d136-4f39-861c-197f9a6a227c"
   },
   {
-    "fields": {
+
       "order": "554",
       "juz": "28",
       "juzorder": "14",
-      "page": "554. Sayfa"
-    },
+      "page": "554. Sayfa",
     "id": "8a2a2f14-d431-4504-ab73-d7fdd2013396"
   },
   {
-    "fields": {
+
       "order": "555",
       "juz": "28",
       "juzorder": "15",
-      "page": "555. Sayfa"
-    },
+      "page": "555. Sayfa",
     "id": "a510cfed-db9a-4ceb-9b06-5ee68ff6bd9f"
   },
   {
-    "fields": {
+
       "order": "556",
       "juz": "28",
       "juzorder": "16",
-      "page": "556. Sayfa"
-    },
+      "page": "556. Sayfa",
     "id": "864110ca-f069-4dd7-a6f7-fdadcce8f04a"
   },
   {
-    "fields": {
+
       "order": "557",
       "juz": "28",
       "juzorder": "17",
-      "page": "557. Sayfa"
-    },
+      "page": "557. Sayfa",
     "id": "331d1d41-7a6e-4be8-80b8-8f5483b1c4f6"
   },
   {
-    "fields": {
+
       "order": "558",
       "juz": "28",
       "juzorder": "18",
-      "page": "558. Sayfa"
-    },
+      "page": "558. Sayfa",
     "id": "d348df0d-ac67-40e4-8c61-17300ae907f8"
   },
   {
-    "fields": {
+
       "order": "559",
       "juz": "28",
       "juzorder": "19",
-      "page": "559. Sayfa"
-    },
+      "page": "559. Sayfa",
     "id": "f9ea1d4d-8f89-4163-8921-9d7bc2407dc9"
   },
   {
-    "fields": {
+
       "order": "560",
       "juz": "28",
       "juzorder": "20",
-      "page": "560. Sayfa"
-    },
+      "page": "560. Sayfa",
     "id": "c3787e77-3833-4476-a34e-ba3d83cf3093"
   },
   {
-    "fields": {
+
       "order": "561",
       "juz": "29",
       "juzorder": "1",
-      "page": "561. Sayfa"
-    },
+      "page": "561. Sayfa",
     "id": "4a725a88-d538-4024-bcad-5c759f2fadcf"
   },
   {
-    "fields": {
+
       "order": "562",
       "juz": "29",
       "juzorder": "2",
-      "page": "562. Sayfa"
-    },
+      "page": "562. Sayfa",
     "id": "88eabd01-5991-42e4-b8b5-43748493211a"
   },
   {
-    "fields": {
+
       "order": "563",
       "juz": "29",
       "juzorder": "3",
-      "page": "563. Sayfa"
-    },
+      "page": "563. Sayfa",
     "id": "195720a2-fad5-42a2-8f82-452a19b0b808"
   },
   {
-    "fields": {
+
       "order": "564",
       "juz": "29",
       "juzorder": "4",
-      "page": "564. Sayfa"
-    },
+      "page": "564. Sayfa",
     "id": "051c7d57-2ae8-4907-b2d8-45cc1aca0915"
   },
   {
-    "fields": {
+
       "order": "565",
       "juz": "29",
       "juzorder": "5",
-      "page": "565. Sayfa"
-    },
+      "page": "565. Sayfa",
     "id": "68edf0db-4c27-4942-95ba-c485f42ec583"
   },
   {
-    "fields": {
+
       "order": "566",
       "juz": "29",
       "juzorder": "6",
-      "page": "566. Sayfa"
-    },
+      "page": "566. Sayfa",
     "id": "0f6fd0e5-0bf3-4ee1-bf5a-fca724102757"
   },
   {
-    "fields": {
+
       "order": "567",
       "juz": "29",
       "juzorder": "7",
-      "page": "567. Sayfa"
-    },
+      "page": "567. Sayfa",
     "id": "138f7373-c1a4-4786-9b15-473008a644bc"
   },
   {
-    "fields": {
+
       "order": "568",
       "juz": "29",
       "juzorder": "8",
-      "page": "568. Sayfa"
-    },
+      "page": "568. Sayfa",
     "id": "c490759f-a06e-49e9-bdf3-995f6a3812ef"
   },
   {
-    "fields": {
+
       "order": "569",
       "juz": "29",
       "juzorder": "9",
-      "page": "569. Sayfa"
-    },
+      "page": "569. Sayfa",
     "id": "5c3c64c5-4dd3-494b-aa12-739c455ef198"
   },
   {
-    "fields": {
+
       "order": "570",
       "juz": "29",
       "juzorder": "10",
-      "page": "570. Sayfa"
-    },
+      "page": "570. Sayfa",
     "id": "7b06a36e-5f5e-474c-9bc9-ca08ad43b92f"
   },
   {
-    "fields": {
+
       "order": "571",
       "juz": "29",
       "juzorder": "11",
-      "page": "571. Sayfa"
-    },
+      "page": "571. Sayfa",
     "id": "5cc4cf28-0e00-4620-9135-5518998749fc"
   },
   {
-    "fields": {
+
       "order": "572",
       "juz": "29",
       "juzorder": "12",
-      "page": "572. Sayfa"
-    },
+      "page": "572. Sayfa",
     "id": "b3cc49f2-c30c-4004-8cfc-17f34b1320bb"
   },
   {
-    "fields": {
+
       "order": "573",
       "juz": "29",
       "juzorder": "13",
-      "page": "573. Sayfa"
-    },
+      "page": "573. Sayfa",
     "id": "8e8f6c12-e2cc-4769-b2b4-5b4bd1ef438b"
   },
   {
-    "fields": {
+
       "order": "574",
       "juz": "29",
       "juzorder": "14",
-      "page": "574. Sayfa"
-    },
+      "page": "574. Sayfa",
     "id": "f42f5810-9541-46df-872e-daf7603c9f1e"
   },
   {
-    "fields": {
+
       "order": "575",
       "juz": "29",
       "juzorder": "15",
-      "page": "575. Sayfa"
-    },
+      "page": "575. Sayfa",
     "id": "2502a173-0152-481a-9e93-225ee4c5b027"
   },
   {
-    "fields": {
+
       "order": "576",
       "juz": "29",
       "juzorder": "16",
-      "page": "576. Sayfa"
-    },
+      "page": "576. Sayfa",
     "id": "ce09de12-0343-44e7-8732-a57214455803"
   },
   {
-    "fields": {
+
       "order": "577",
       "juz": "29",
       "juzorder": "17",
-      "page": "577. Sayfa"
-    },
+      "page": "577. Sayfa",
     "id": "07cf1bf0-5d87-412d-8ef5-9a03b51961cf"
   },
   {
-    "fields": {
+
       "order": "578",
       "juz": "29",
       "juzorder": "18",
-      "page": "578. Sayfa"
-    },
+      "page": "578. Sayfa",
     "id": "e80f7090-1115-4f15-a5ba-e2efe0765376"
   },
   {
-    "fields": {
+
       "order": "579",
       "juz": "29",
       "juzorder": "19",
-      "page": "579. Sayfa"
-    },
+      "page": "579. Sayfa",
     "id": "540c5988-598c-41f1-b5aa-1a09eb31ce8f"
   },
   {
-    "fields": {
+
       "order": "580",
       "juz": "29",
       "juzorder": "20",
-      "page": "580. Sayfa"
-    },
+      "page": "580. Sayfa",
     "id": "7a3e89da-7d1d-46ef-bffa-9e6c6662f084"
   },
   {
-    "fields": {
+
       "order": "581",
       "juz": "30",
       "juzorder": "1",
-      "page": "581. Sayfa"
-    },
+      "page": "581. Sayfa",
     "id": "5386f1ca-ed23-4656-8afa-4892b6816566"
   },
   {
-    "fields": {
+
       "order": "582",
       "juz": "30",
       "juzorder": "2",
-      "page": "582. Sayfa"
-    },
+      "page": "582. Sayfa",
     "id": "40c9270a-c373-433c-a969-e33f5782ec52"
   },
   {
-    "fields": {
+
       "order": "583",
       "juz": "30",
       "juzorder": "3",
-      "page": "583. Sayfa"
-    },
+      "page": "583. Sayfa",
     "id": "742f0247-30cf-4616-b0ea-e5ff8be74a7e"
   },
   {
-    "fields": {
+
       "order": "584",
       "juz": "30",
       "juzorder": "4",
-      "page": "584. Sayfa"
-    },
+      "page": "584. Sayfa",
     "id": "a6b23dd5-481e-4e9d-8772-08cac8f58a27"
   },
   {
-    "fields": {
+
       "order": "585",
       "juz": "30",
       "juzorder": "5",
-      "page": "585. Sayfa"
-    },
+      "page": "585. Sayfa",
     "id": "acd4cadf-1d0f-416c-b911-e024fcd9c4c0"
   },
   {
-    "fields": {
+
       "order": "586",
       "juz": "30",
       "juzorder": "6",
-      "page": "586. Sayfa"
-    },
+      "page": "586. Sayfa",
     "id": "f90aae1a-c057-4bb5-b31e-41dd2a30f984"
   },
   {
-    "fields": {
+
       "order": "587",
       "juz": "30",
       "juzorder": "7",
-      "page": "587. Sayfa"
-    },
+      "page": "587. Sayfa",
     "id": "bfd42ece-c5f7-4236-a93a-1afb3c7377ee"
   },
   {
-    "fields": {
+
       "order": "588",
       "juz": "30",
       "juzorder": "8",
-      "page": "588. Sayfa"
-    },
+      "page": "588. Sayfa",
     "id": "b69db628-d968-4b82-b720-465a1431cc42"
   },
   {
-    "fields": {
+
       "order": "589",
       "juz": "30",
       "juzorder": "9",
-      "page": "589. Sayfa"
-    },
+      "page": "589. Sayfa",
     "id": "699da568-87a2-4009-96b0-a063c17de78e"
   },
   {
-    "fields": {
+
       "order": "590",
       "juz": "30",
       "juzorder": "10",
-      "page": "590. Sayfa"
-    },
+      "page": "590. Sayfa",
     "id": "66f9ded8-d212-4772-be47-07aeaa89576e"
   },
   {
-    "fields": {
+
       "order": "591",
       "juz": "30",
       "juzorder": "11",
-      "page": "591. Sayfa"
-    },
+      "page": "591. Sayfa",
     "id": "a989fcd5-f1ef-4ca4-b3e4-26714d4f40c1"
   },
   {
-    "fields": {
+
       "order": "592",
       "juz": "30",
       "juzorder": "12",
-      "page": "592. Sayfa"
-    },
+      "page": "592. Sayfa",
     "id": "e66d1b4c-a19e-4bf5-8ab8-f50615f17e78"
   },
   {
-    "fields": {
+
       "order": "593",
       "juz": "30",
       "juzorder": "13",
-      "page": "593. Sayfa"
-    },
+      "page": "593. Sayfa",
     "id": "efa14f48-dec5-4509-8e65-90ed6ab484a3"
   },
   {
-    "fields": {
+
       "order": "594",
       "juz": "30",
       "juzorder": "14",
-      "page": "594. Sayfa"
-    },
+      "page": "594. Sayfa",
     "id": "0643757d-5392-4f1d-a63f-1eede58ed3d5"
   },
   {
-    "fields": {
+
       "order": "595",
       "juz": "30",
       "juzorder": "15",
-      "page": "595. Sayfa"
-    },
+      "page": "595. Sayfa",
     "id": "57b8cb6e-818e-45da-9154-ebf918bfa767"
   },
   {
-    "fields": {
+
       "order": "596",
       "juz": "30",
       "juzorder": "16",
-      "page": "596. Sayfa"
-    },
+      "page": "596. Sayfa",
     "id": "55d88e2b-1469-444f-8a78-b1bbde3183e0"
   },
   {
-    "fields": {
+
       "order": "597",
       "juz": "30",
       "juzorder": "17",
-      "page": "597. Sayfa"
-    },
+      "page": "597. Sayfa",
     "id": "9ae1bdbd-f805-4b6b-abcb-6764f07df6b9"
   },
   {
-    "fields": {
+
       "order": "598",
       "juz": "30",
       "juzorder": "18",
-      "page": "598. Sayfa"
-    },
+      "page": "598. Sayfa",
     "id": "58b78ac2-60fa-4404-9710-a993c2743b2f"
   },
   {
-    "fields": {
+
       "order": "599",
       "juz": "30",
       "juzorder": "19",
-      "page": "599. Sayfa"
-    },
+      "page": "599. Sayfa",
     "id": "e4649225-e606-48d3-84db-a2a83419eb48"
   },
   {
-    "fields": {
+
       "order": "600",
       "juz": "30",
       "juzorder": "20",
-      "page": "600. Sayfa"
-    },
+      "page": "600. Sayfa",
     "id": "74aafae8-98be-47e0-8f68-7ddded6d025c"
   },
   {
-    "fields": {
+
       "order": "601",
       "juz": "30",
       "juzorder": "21",
-      "page": "601. Sayfa"
-    },
+      "page": "601. Sayfa",
     "id": "6f27350e-0ece-47e4-9c1e-af076e643729"
   },
   {
-    "fields": {
+
       "order": "602",
       "juz": "30",
       "juzorder": "22",
-      "page": "602. Sayfa"
-    },
+      "page": "602. Sayfa",
     "id": "b7afb4c8-d5e4-4fea-b688-011c880d6ca6"
   },
   {
-    "fields": {
+
       "order": "603",
       "juz": "30",
       "juzorder": "23",
-      "page": "603. Sayfa"
-    },
+      "page": "603. Sayfa",
     "id": "338b60fd-c354-4548-860c-ca66bf1524d2"
   }
 ]
